@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T08:06:40.079389+00:00",
+  "updatedAt": "2026-09-21T08:13:53.493081+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -88,6 +88,34 @@
           "thumbnail": "https://i.ytimg.com/vi/eVN2t7WveeI/hqdefault.jpg",
           "publishedAt": "2026-09-12T09:03:39Z"
         }
+      ],
+      "live": false,
+      "liveBroadcast": null,
+      "upcoming": [
+        {
+          "id": "7YgY_Mc6Jro",
+          "title": "【 #参加型 】#雀魂 三麻　初見さんも初心者さんも今日はゆるく遊びましょーの第二回【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/7YgY_Mc6Jro/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-09-22T12:00:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        },
+        {
+          "id": "fLuLm25KHfU",
+          "title": "《ライブイベント告知》2026.9.25 PROJECT ALVIZIA　Blooming Parade【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/fLuLm25KHfU/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-09-25T03:00:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        },
+        {
+          "id": "fLpULN_15X4",
+          "title": "《タイアップ告知：2026.10.31 23:59まで》HATAラムネコラボ【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/fLpULN_15X4/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-10-31T14:59:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        }
       ]
     },
     {
@@ -146,7 +174,35 @@
           "publishedAt": "2026-09-15T12:04:49Z"
         }
       ],
-      "shorts": []
+      "shorts": [],
+      "live": false,
+      "liveBroadcast": null,
+      "upcoming": [
+        {
+          "id": "ydqDOL-tQy0",
+          "title": "お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
+          "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-09-23T11:00:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        },
+        {
+          "id": "FCHGLMO3vGA",
+          "title": "【日本事故物件監視協会 -JSP- 】事故物件を監視するだけの簡単なお仕事【初見プレイ】",
+          "thumbnail": "https://i.ytimg.com/vi/FCHGLMO3vGA/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-09-21T12:00:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        },
+        {
+          "id": "LgTfRJx6er8",
+          "title": "ファンクラブはこちら！🔥",
+          "thumbnail": "https://i.ytimg.com/vi/LgTfRJx6er8/hqdefault_live.jpg",
+          "scheduledStartTime": "2028-02-28T15:00:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        }
+      ]
     },
     {
       "name": "三毛猫わらび🐈🥦",
@@ -241,7 +297,10 @@
           "thumbnail": "https://i.ytimg.com/vi/GyirxUrw3ww/hqdefault.jpg",
           "publishedAt": "2026-08-20T03:02:43Z"
         }
-      ]
+      ],
+      "live": false,
+      "liveBroadcast": null,
+      "upcoming": []
     }
   ]
 }
