@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T18:13:43.282091+00:00",
+  "updatedAt": "2026-09-21T22:02:41.321074+00:00",
   "mode": "review-only",
   "candidates": [
     {
@@ -111,11 +111,23 @@
       "channelId": "UCpS8j_UUU7eR8wJ58ySVpgw",
       "name": "縁寺らん@個人勢",
       "description": "おはらん〜💗\n縁結び担当の元ヤン神様縁寺らんだよ\n気まぐれで願い叶えるからいつでも見に来いよ〜",
-      "subs": 58,
+      "subs": 59,
       "avatar": "https://yt3.ggpht.com/u0VWRH2HGDzMn9W6QVbsXOElw_Fy1IWhplY48HISTv8was07fWs_Cj7GJxOfAckr9GVXibx2wt0=s800-c-k-c0x00ffffff-no-rj",
       "youtube": "https://www.youtube.com/channel/UCpS8j_UUU7eR8wJ58ySVpgw",
       "signals": [
         "個人勢"
+      ],
+      "status": "review"
+    },
+    {
+      "channelId": "UCxTqouLvvlWiLiWrjouG2lw",
+      "name": "椛沢 なえ@個人Vtuber",
+      "description": "",
+      "subs": 88,
+      "avatar": "https://yt3.ggpht.com/pNNjUR1YeAx2fdSXDZ5xCSYRlg-nSv5oJRt5ambjKHqgqKtgOJP7CGKbspQkCK9gPgR7cxar=s800-c-k-c0x00ffffff-no-rj",
+      "youtube": "https://www.youtube.com/channel/UCxTqouLvvlWiLiWrjouG2lw",
+      "signals": [
+        "vtuber"
       ],
       "status": "review"
     },
@@ -130,18 +142,6 @@
         "vtuber",
         "個人勢",
         "新人v"
-      ],
-      "status": "review"
-    },
-    {
-      "channelId": "UCxTqouLvvlWiLiWrjouG2lw",
-      "name": "椛沢 なえ@個人Vtuber",
-      "description": "",
-      "subs": 88,
-      "avatar": "https://yt3.ggpht.com/pNNjUR1YeAx2fdSXDZ5xCSYRlg-nSv5oJRt5ambjKHqgqKtgOJP7CGKbspQkCK9gPgR7cxar=s800-c-k-c0x00ffffff-no-rj",
-      "youtube": "https://www.youtube.com/channel/UCxTqouLvvlWiLiWrjouG2lw",
-      "signals": [
-        "vtuber"
       ],
       "status": "review"
     },
@@ -216,7 +216,7 @@
       "channelId": "UCIRCkFivuXghFD7WvlQpuMQ",
       "name": "阿冠なぎ@新人VTuber",
       "description": "あかんなぎです👑🦋\n\n脱引きこもりを目指すVTuber 🔥￤兼業個人勢 Vtuber ￤ゆっくりマイペースにがんばる\n\n良かったら仲良くしてね！\n\n\n\n5/2 デビュー\n5/28 チャンネル登録100人達成！\n6/13 初配信\n7/22 チャンネル登録200人達成！",
-      "subs": 263,
+      "subs": 262,
       "avatar": "https://yt3.ggpht.com/_tzcBONv7vP47SKp_1HpUtUemDCudlAqzcVe2HP8j3JNBacDVuNbrVnGd7JWPdAhJkbDWPz2UU4=s800-c-k-c0x00ffffff-no-rj",
       "youtube": "https://www.youtube.com/channel/UCIRCkFivuXghFD7WvlQpuMQ",
       "signals": [
