@@ -12,3 +12,5 @@
 .shortSound{position:fixed;z-index:60;top:calc(68px + env(safe-area-inset-top));left:50%;transform:translateX(-50%);padding:9px 15px;border-radius:999px;background:#000b;color:#fff;font-size:13px;font-weight:800;box-shadow:0 4px 18px #0005;cursor:pointer}.shortSound.on{opacity:.45;pointer-events:none}
 
 .unverified{display:inline-block;font-size:11px;padding:4px 8px;border-radius:999px;background:#f2eff8;color:#777;font-weight:700;vertical-align:middle}.profileBio{line-height:1.7;color:#686276;margin:12px 0}.officialLinks{display:flex;gap:8px;flex-wrap:wrap;margin:12px 0}.officialLinks button{border:0;border-radius:999px;background:#f1edff;color:#6754b8;padding:9px 13px;font-weight:800}
+
+.creatorInfo{margin:12px 0;padding:14px 16px;border-radius:18px;background:#fff;box-shadow:0 5px 18px #755b9a12}.creatorInfo b{font-size:13px}.creatorInfo p{margin:6px 0 0;color:#716b7d;font-size:13px;line-height:1.5}
