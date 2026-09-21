@@ -20,3 +20,6 @@
 .creatorCover{background-size:cover;background-position:center}.creatorAvatar{overflow:hidden}.creatorAvatar img{width:100%;height:100%;object-fit:cover;display:block}
 
 .imagePolicy{display:inline-block;margin-top:12px;padding:6px 10px;border-radius:999px;font-size:10px;font-weight:800}.imagePolicy.unknown{background:#f2f2f5;color:#777}.imagePolicy.restricted{background:#fff1df;color:#a76b21}.imagePolicy.allowed{background:#e8f8ef;color:#31825a}
+
+/* API image containment */
+.thumb{overflow:hidden}.thumb>img{width:100%;height:100%;display:block;object-fit:cover}.avatar{overflow:hidden;flex:0 0 auto}.avatar>img{width:100%;height:100%;display:block;object-fit:cover}.discover{overflow:hidden}.discover>div:last-child{min-width:0}.discover b,.discover p,.discover .meta{overflow-wrap:anywhere}
