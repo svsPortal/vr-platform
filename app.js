@@ -1,7 +1,7 @@
 const V=[
-{name:"天城リクト",emoji:"🐿️",subs:"2,550人",tag:"雑談・ゲーム・Shorts・Vlog",live:false,official:false,bio:"昼はシステムエンジニア、夜は個人勢VTuber。毎週土曜を中心に配信。",youtube:"https://www.youtube.com/@Amagi_Rikuto",site:"https://www.amagi-rikuto.com/"},
+{name:"天城リクト",emoji:"🐿️",subs:"2,550人",tag:"雑談・ゲーム・Shorts・Vlog",live:false,official:false,bio:"昼はシステムエンジニア、夜は個人勢VTuber。毎週土曜を中心に配信。",youtube:"https://www.youtube.com/@Amagi_Rikuto",site:"https://amagi-rikuto.com/",schedule:"毎週土曜 21:00",latest:"Shorts：毎週金曜17:00 / 通常動画：不定期"},
 {name:"霧梨トセ",emoji:"🌌",subs:"公開情報",tag:"ゲーム・朗読",live:false,official:false,bio:"夢と現のあわいを歩く、おっとりマイペースな個人勢VTuber。ゲームや朗読を中心に活動。",site:"https://tosekirinashi.com/"},
-{name:"雪明みてん",emoji:"🤍",subs:"914人",tag:"歌・雑談・ゲーム・参加型",live:false,official:false,bio:"北海道出身・在住の道産子白狐VTuber。歌枠、ホラー、RPG、雀魂などで活動。",youtube:"https://www.youtube.com/@Yume_miten",site:"https://yume-miten.jp/"},
+{name:"雪明みてん",emoji:"🤍",subs:"914人",tag:"歌・雑談・ゲーム・参加型",live:false,official:false,bio:"北海道出身・在住の道産子白狐VTuber。歌枠、ホラー、RPG、雀魂などで活動。",youtube:"https://www.youtube.com/@Yume_miten",site:"https://yume-miten.jp/",channelId:"UCPMbyTlim27DvJtsa3kJHTQ",latest:"公式サイトに最新動画・Shorts一覧あり"},
 {name:"三毛猫わらび",emoji:"🐈",subs:"約4,410人",tag:"雑談・スプラ・ポケモン・MH",live:false,official:false,bio:"ネコ耳癒し系の個人勢VTuber。ゲーム配信や参加型配信を中心に活動。",youtube:"https://www.youtube.com/results?search_query=%E4%B8%89%E6%AF%9B%E7%8C%AB%E3%82%8F%E3%82%89%E3%81%B3"},
 {name:"或灯あると",emoji:"👾",subs:"登録者少なめ",tag:"ゲーム・お絵描き・雑談",live:false,official:false,bio:"新人個人VTuber。まったりゲーム、お絵描き、雑談を中心に活動。",youtube:"https://www.youtube.com/@%E3%82%91%E5%8D%9C%E3%81%A1%E3%82%83%E3%82%93"}
 ];let page="home",balance=2840;const app=document.getElementById("app");
