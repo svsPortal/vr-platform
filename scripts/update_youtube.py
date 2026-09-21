@@ -61,7 +61,9 @@ if found:
    sn=x.get("snippet",{});st=x.get("statistics",{});subs=int(st.get("subscriberCount",0)) if "subscriberCount" in st else None
    text=(sn.get("title","")+" "+sn.get("description","")).lower()
    signals=[k for k in ["vtuber","vチューバー","バーチャル","個人勢","新人v"] if k in text]
-   reject_terms=["切り抜きch","切り抜きチャンネル","まとめch","まとめチャンネル","clip channel"]\n   rejected=any(k in text for k in reject_terms)\n   if signals and not rejected and (subs is None or subs<=50000):
+   reject_terms=["切り抜きch","切り抜きチャンネル","まとめch","まとめチャンネル","clip channel"]
+   rejected=any(k in text for k in reject_terms)
+   if signals and not rejected and (subs is None or subs<=50000):
     candidates.append({"channelId":x["id"],"name":sn.get("title"),"description":sn.get("description","")[:500],"subs":subs,"avatar":sn.get("thumbnails",{}).get("high",sn.get("thumbnails",{}).get("default",{})).get("url"),"youtube":"https://www.youtube.com/channel/"+x["id"],"signals":signals,"status":"review"})
  except Exception as e:print("discovery details failed",e)
 candidates.sort(key=lambda x:(x["subs"] is None,x["subs"] if x["subs"] is not None else 10**12))
