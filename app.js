@@ -17,8 +17,8 @@ const SHORTS=[
 
 function shortsPage(){
   return '<div class="shortsFull"><div class="shortSound" onclick="enableShortSound()">🔊 音声をON</div><div class="shortTop"><button onclick="go(\'home\')">‹</button><b>Shorts</b><span>VR</span></div>'+
-  SHORTS.map(function(v){
-    return '<section class="shortItem ytShort"><iframe class="ytFrame" src="https://www.youtube.com/embed/'+v.id+'?autoplay=1&mute=0&playsinline=1&loop=1&playlist='+v.id+'&rel=0" title="'+v.name+'" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe><div class="shortInfo"><b>'+v.name+'</b><p>YouTube Shorts</p></div></section>';
+  SHORTS.map(function(v,i){
+    return '<section class="shortItem ytShort" data-id="'+v.id+'"><iframe class="ytFrame" src="'+(i===0?'https://www.youtube.com/embed/'+v.id+'?autoplay=1&mute=1&playsinline=1&loop=1&playlist='+v.id+'&rel=0':'about:blank')+'" title="'+v.name+'" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe><div class="shortInfo"><b>'+v.name+'</b><p>YouTube Shorts</p></div></section>';
   }).join('')+'</div>';
 }
 function livePage(){return topbar(false)+'<h1>配信</h1><p class="sub">今この瞬間に配信しているVTuber</p><div class="cards">'+V.filter(v=>v.live).map((v,i)=>card(v,i)).join("")+'</div>'+nav()}
@@ -27,12 +27,27 @@ function mypage(){return topbar(false)+'<h1>マイページ</h1><div class="myhe
 function profile(i){page="profile";const v=V[i];app.innerHTML='<div class="shell">'+topbar(true)+'<div class="profile-cover">'+v.emoji+'</div><div class="profile"><div class="avatar">'+v.emoji+'</div><h1>'+v.name+' <span class="verified">✓</span></h1><div class="meta">'+v.tag+'</div><button class="follow" onclick="this.innerText=\'フォロー中 ✓\'">フォロー</button><div class="stats"><div><b>'+v.subs+'</b><br><small>登録者</small></div><div><b>3,560人</b><br><small>フォロワー</small></div><div><b>125,430 VR</b><br><small>応援総額</small></div></div><div class="tabs">ホーム　 動画　 ショート　 コミュニティ　 グッズ</div><div class="history"><b>🎖 あなたの応援歴</b><p>登録者312人の時から応援しています。</p><b class="grad">古参ランキング 上位8%</b></div><button class="cta wide" onclick="tip()">♥ このVTuberを応援する</button></div></div>'+nav()}
 function tip(){let n=Number(prompt("応援するVR数","100"));if(n>0&&n<=balance){balance-=n;alert(n+" VRを送りました ♥");go("vr")}else if(n)alert("VR残高を確認してください")}
 function earn(){balance+=3;alert("3 VR獲得しました！");go("vr")}
-function go(p){page=p;let html=p==="discover"?discover():p==="live"?livePage():p==="vr"?vr():p==="mypage"?mypage():p==="shorts"?shortsPage():home();app.innerHTML='<div class="shell">'+html+'</div>';window.scrollTo(0,0)}go("home");
+function go(p){page=p;let html=p==="discover"?discover():p==="live"?livePage():p==="vr"?vr():p==="mypage"?mypage():p==="shorts"?shortsPage():home();app.innerHTML='<div class="shell">'+html+'</div>';if(p==="shorts")setTimeout(initShortObserver,0);window.scrollTo(0,0)}go("home");
+let shortSoundOn=false;
+function loadVisibleShort(el){
+ document.querySelectorAll('.ytShort').forEach(function(x){
+  const f=x.querySelector('.ytFrame');
+  if(x===el){
+   const id=x.dataset.id;
+   const url='https://www.youtube.com/embed/'+id+'?autoplay=1&mute='+(shortSoundOn?'0':'1')+'&playsinline=1&loop=1&playlist='+id+'&rel=0';
+   if(!f.src.includes('/embed/'+id)||f.src.includes('mute='+(shortSoundOn?'1':'0')))f.src=url;
+  }else if(f.src!=='about:blank') f.src='about:blank';
+ });
+}
+function initShortObserver(){
+ const items=[...document.querySelectorAll('.ytShort')]; if(!items.length)return;
+ const ob=new IntersectionObserver(es=>es.forEach(e=>{if(e.isIntersecting&&e.intersectionRatio>.7)loadVisibleShort(e.target)}),{threshold:[.7]});
+ items.forEach(x=>ob.observe(x)); loadVisibleShort(items[0]);
+}
 function enableShortSound(){
-  document.querySelectorAll('.ytFrame').forEach(function(f){
-    var u=f.src.replace('mute=1','mute=0').replace('autoplay=0','autoplay=1');
-    f.src=u;
-  });
-  var b=document.querySelector('.shortSound');
-  if(b){b.textContent='🔊 音声ON';b.classList.add('on');}
+ shortSoundOn=true;
+ const items=[...document.querySelectorAll('.ytShort')];
+ const active=items.find(x=>{const r=x.getBoundingClientRect();return r.top<innerHeight*.5&&r.bottom>innerHeight*.5})||items[0];
+ if(active)loadVisibleShort(active);
+ const b=document.querySelector('.shortSound');if(b){b.textContent='🔊 音声ON';b.classList.add('on')}
 }
