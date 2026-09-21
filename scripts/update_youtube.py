@@ -18,7 +18,17 @@ for cfg in CHANNELS:
  vids=[{"id":x["contentDetails"]["videoId"],"title":x["snippet"]["title"],"thumbnail":x["snippet"].get("thumbnails",{}).get("high",x["snippet"].get("thumbnails",{}).get("medium",{})).get("url",""),"publishedAt":x["snippet"].get("publishedAt")} for x in pl]
  # YouTube Data API has no definitive Shorts flag. Keep only explicit #shorts uploads
  shorts=[v for v in vids if "#shorts" in v["title"].lower()][:8]
- out.append({"name":sn["title"],"channelId":cfg["channelId"],"youtube":cfg["youtube"],"subs":f'{int(st.get("subscriberCount",0)):,}人' if "subscriberCount" in st else "非公開","avatar":sn.get("thumbnails",{}).get("high",sn.get("thumbnails",{}).get("default",{})).get("url"),"videos":vids,"shorts":shorts})
+ # Detect current live stream and upcoming broadcasts for this channel.
+ live_items=get("search",{"part":"snippet","channelId":cfg["channelId"],"type":"video","eventType":"live","maxResults":5}).get("items",[])
+ upcoming_items=get("search",{"part":"snippet","channelId":cfg["channelId"],"type":"video","eventType":"upcoming","order":"date","maxResults":5}).get("items",[])
+ def broadcasts(items):
+  ids=[x.get("id",{}).get("videoId") for x in items if x.get("id",{}).get("videoId")]
+  if not ids:return []
+  details=get("videos",{"part":"snippet,liveStreamingDetails","id":",".join(ids)}).get("items",[])
+  return [{"id":x["id"],"title":x["snippet"]["title"],"thumbnail":x["snippet"].get("thumbnails",{}).get("high",x["snippet"].get("thumbnails",{}).get("medium",{})).get("url",""),"scheduledStartTime":x.get("liveStreamingDetails",{}).get("scheduledStartTime"),"actualStartTime":x.get("liveStreamingDetails",{}).get("actualStartTime"),"concurrentViewers":x.get("liveStreamingDetails",{}).get("concurrentViewers")} for x in details]
+ live_broadcasts=broadcasts(live_items)
+ upcoming=broadcasts(upcoming_items)
+ out.append({"name":sn["title"],"channelId":cfg["channelId"],"youtube":cfg["youtube"],"subs":f'{int(st.get("subscriberCount",0)):,}人' if "subscriberCount" in st else "非公開","avatar":sn.get("thumbnails",{}).get("high",sn.get("thumbnails",{}).get("default",{})).get("url"),"videos":vids,"shorts":shorts,"live":bool(live_broadcasts),"liveBroadcast":live_broadcasts[0] if live_broadcasts else None,"upcoming":upcoming[:3]})
 from datetime import datetime,timezone
 os.makedirs("data",exist_ok=True)
 with open("data/youtube.json","w",encoding="utf-8") as f:json.dump({"updatedAt":datetime.now(timezone.utc).isoformat(),"creators":out},f,ensure_ascii=False,indent=2)
