@@ -1,4 +1,112 @@
 {
-  "updatedAt": null,
-  "creators": []
+  "updatedAt": "2026-09-21T08:04:17.811924+00:00",
+  "creators": [
+    {
+      "name": "雪明みてん@道産子Vtuber",
+      "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
+      "youtube": "https://www.youtube.com/@Yume_miten",
+      "subs": "918人",
+      "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
+      "videos": [
+        {
+          "id": "uHuunL0zBao",
+          "title": "【 #歌枠 】リクエストOKのゆるーい日【 #karaoke  #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/uHuunL0zBao/hqdefault.jpg",
+          "publishedAt": "2026-09-20T02:05:27Z"
+        },
+        {
+          "id": "7YgY_Mc6Jro",
+          "title": "【 #参加型 】#雀魂 三麻　初見さんも初心者さんも今日はゆるく遊びましょーの第二回【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/7YgY_Mc6Jro/hqdefault_live.jpg",
+          "publishedAt": "2026-09-19T02:19:58Z"
+        },
+        {
+          "id": "FV-ZIAWP3mY",
+          "title": "ルーティン #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/FV-ZIAWP3mY/hqdefault.jpg",
+          "publishedAt": "2026-09-18T08:57:51Z"
+        },
+        {
+          "id": "cv_kK9HDWRM",
+          "title": "お兄のせい。 #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/cv_kK9HDWRM/hqdefault.jpg",
+          "publishedAt": "2026-09-16T09:20:29Z"
+        },
+        {
+          "id": "4_31b-s30GI",
+          "title": "【 #参加型 】#雀魂 三麻　初見さんも初心者さんも今日はゆるく遊びましょー【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/4_31b-s30GI/hqdefault.jpg",
+          "publishedAt": "2026-09-15T15:04:15Z"
+        },
+        {
+          "id": "rNIZ3f0uPck",
+          "title": "なまらめんこいVtuber #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/rNIZ3f0uPck/hqdefault.jpg",
+          "publishedAt": "2026-09-14T09:03:26Z"
+        },
+        {
+          "id": "K2QOEgsmyRs",
+          "title": "好きなアーティストいる？ #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/K2QOEgsmyRs/hqdefault.jpg",
+          "publishedAt": "2026-09-13T09:07:09Z"
+        },
+        {
+          "id": "eVN2t7WveeI",
+          "title": "圧倒的に… #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/eVN2t7WveeI/hqdefault.jpg",
+          "publishedAt": "2026-09-12T09:03:39Z"
+        }
+      ],
+      "shorts": [
+        {
+          "id": "7YgY_Mc6Jro",
+          "title": "【 #参加型 】#雀魂 三麻　初見さんも初心者さんも今日はゆるく遊びましょーの第二回【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/7YgY_Mc6Jro/hqdefault_live.jpg",
+          "publishedAt": "2026-09-19T02:19:58Z"
+        },
+        {
+          "id": "FV-ZIAWP3mY",
+          "title": "ルーティン #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/FV-ZIAWP3mY/hqdefault.jpg",
+          "publishedAt": "2026-09-18T08:57:51Z"
+        },
+        {
+          "id": "cv_kK9HDWRM",
+          "title": "お兄のせい。 #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/cv_kK9HDWRM/hqdefault.jpg",
+          "publishedAt": "2026-09-16T09:20:29Z"
+        },
+        {
+          "id": "rNIZ3f0uPck",
+          "title": "なまらめんこいVtuber #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/rNIZ3f0uPck/hqdefault.jpg",
+          "publishedAt": "2026-09-14T09:03:26Z"
+        },
+        {
+          "id": "K2QOEgsmyRs",
+          "title": "好きなアーティストいる？ #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/K2QOEgsmyRs/hqdefault.jpg",
+          "publishedAt": "2026-09-13T09:07:09Z"
+        },
+        {
+          "id": "eVN2t7WveeI",
+          "title": "圧倒的に… #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/eVN2t7WveeI/hqdefault.jpg",
+          "publishedAt": "2026-09-12T09:03:39Z"
+        },
+        {
+          "id": "t0hG06Y79a8",
+          "title": "スロットに脳が焼かれたVtuber #shorts #vtuber #新人vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/t0hG06Y79a8/hqdefault.jpg",
+          "publishedAt": "2026-09-11T09:06:56Z"
+        },
+        {
+          "id": "fLuLm25KHfU",
+          "title": "《ライブイベント告知》2026.9.25 PROJECT ALVIZIA　Blooming Parade【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/fLuLm25KHfU/hqdefault_live.jpg",
+          "publishedAt": "2026-08-27T07:08:37Z"
+        }
+      ]
+    }
+  ]
 }
