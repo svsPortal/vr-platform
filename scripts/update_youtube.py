@@ -1,4 +1,5 @@
-import json,os,urllib.parse,urllib.request\nfrom datetime import datetime,timezone,timedelta
+import json,os,urllib.parse,urllib.request
+from datetime import datetime,timezone,timedelta
 API=os.environ["YOUTUBE_API_KEY"]
 BASE="https://www.googleapis.com/youtube/v3/"
 CHANNELS=[
