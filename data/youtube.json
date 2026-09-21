@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-21T08:26:44.917842+00:00",
+  "updatedAt": "2026-09-21T18:13:42.286051+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -118,28 +118,28 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "FCHGLMO3vGA",
+          "title": "【日本事故物件監視協会 -JSP- 】事故物件を監視するだけの簡単なお仕事【初見プレイ】",
+          "thumbnail": "https://i.ytimg.com/vi/FCHGLMO3vGA/hqdefault.jpg",
+          "publishedAt": "2026-09-21T14:18:37Z"
+        },
+        {
+          "id": "6AuxqXBpJWk",
+          "title": "【縦型Live】事故物件を監視するだけの簡単なお仕事【日本事故物件監視協会 -JSP- 】",
+          "thumbnail": "https://i.ytimg.com/vi/6AuxqXBpJWk/hqdefault_live.jpg",
+          "publishedAt": "2026-09-21T14:11:07Z"
+        },
+        {
           "id": "50BHUcYvxOw",
           "title": "【ビンゴ耐久】配信ビンゴに初挑戦...！【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/50BHUcYvxOw/hqdefault.jpg",
           "publishedAt": "2026-09-20T14:13:07Z"
         },
         {
-          "id": "kTN4U_7H4dM",
-          "title": "【ビンゴ耐久】配信ビンゴに初挑戦...！【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/kTN4U_7H4dM/hqdefault_live.jpg",
-          "publishedAt": "2026-09-20T14:07:12Z"
-        },
-        {
           "id": "ydqDOL-tQy0",
           "title": "お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
           "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault_live.jpg",
           "publishedAt": "2026-09-20T02:42:10Z"
-        },
-        {
-          "id": "FCHGLMO3vGA",
-          "title": "【日本事故物件監視協会 -JSP- 】事故物件を監視するだけの簡単なお仕事【初見プレイ】",
-          "thumbnail": "https://i.ytimg.com/vi/FCHGLMO3vGA/hqdefault_live.jpg",
-          "publishedAt": "2026-09-20T02:39:02Z"
         },
         {
           "id": "UOAHCUSTXg0",
@@ -175,14 +175,6 @@
           "title": "お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
           "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault_live.jpg",
           "scheduledStartTime": "2026-09-23T11:00:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        },
-        {
-          "id": "FCHGLMO3vGA",
-          "title": "【日本事故物件監視協会 -JSP- 】事故物件を監視するだけの簡単なお仕事【初見プレイ】",
-          "thumbnail": "https://i.ytimg.com/vi/FCHGLMO3vGA/hqdefault_live.jpg",
-          "scheduledStartTime": "2026-09-21T12:00:00Z",
           "actualStartTime": null,
           "concurrentViewers": null
         }
