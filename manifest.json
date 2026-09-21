@@ -1,0 +1,9 @@
+{
+  "name": "VR - VTuber Discovery",
+  "short_name": "VR",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffafc",
+  "theme_color": "#fff7fb",
+  "description": "まだ知らない推しと出会い、応援できるVTuberプラットフォーム"
+}
