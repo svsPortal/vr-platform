@@ -18,7 +18,7 @@ const SHORTS=[
 function shortsPage(){
   return '<div class="shortsFull"><div class="shortTop"><button onclick="go(\'home\')">‹</button><b>Shorts</b><span>VR</span></div>'+
   SHORTS.map(function(v){
-    return '<section class="shortItem ytShort"><iframe class="ytFrame" src="https://www.youtube.com/embed/'+v.id+'?autoplay=1&mute=1&playsinline=1&loop=1&playlist='+v.id+'&rel=0" title="'+v.name+'" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe><div class="shortInfo"><b>'+v.name+'</b><p>YouTube Shorts</p></div></section>';
+    return '<section class="shortItem ytShort"><iframe class="ytFrame" src="https://www.youtube.com/embed/'+v.id+'?autoplay=1&mute=0&playsinline=1&loop=1&playlist='+v.id+'&rel=0" title="'+v.name+'" allow="autoplay; encrypted-media; picture-in-picture" allowfullscreen></iframe><div class="shortInfo"><b>'+v.name+'</b><p>YouTube Shorts</p></div></section>';
   }).join('')+'</div>';
 }
 function livePage(){return topbar(false)+'<h1>配信</h1><p class="sub">今この瞬間に配信しているVTuber</p><div class="cards">'+V.filter(v=>v.live).map((v,i)=>card(v,i)).join("")+'</div>'+nav()}
