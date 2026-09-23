@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T04:51:31.890813+00:00",
+  "updatedAt": "2026-09-23T11:47:04.255606+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -113,7 +113,13 @@
           "id": "S9L5sKg1ZnQ",
           "title": "【🔴縦型Live】お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
           "thumbnail": "https://i.ytimg.com/vi/S9L5sKg1ZnQ/hqdefault_live.jpg",
-          "publishedAt": "2026-09-22T14:49:18Z"
+          "publishedAt": "2026-09-23T11:04:43Z"
+        },
+        {
+          "id": "ydqDOL-tQy0",
+          "title": "お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
+          "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault_live.jpg",
+          "publishedAt": "2026-09-23T11:02:05Z"
         },
         {
           "id": "6AuxqXBpJWk",
@@ -132,12 +138,6 @@
           "title": "【ビンゴ耐久】配信ビンゴに初挑戦...！【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/50BHUcYvxOw/hqdefault.jpg",
           "publishedAt": "2026-09-20T14:13:07Z"
-        },
-        {
-          "id": "ydqDOL-tQy0",
-          "title": "お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
-          "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault_live.jpg",
-          "publishedAt": "2026-09-20T02:42:10Z"
         },
         {
           "id": "UOAHCUSTXg0",
@@ -159,18 +159,16 @@
         }
       ],
       "shorts": [],
-      "live": false,
-      "liveBroadcast": null,
-      "upcoming": [
-        {
-          "id": "ydqDOL-tQy0",
-          "title": "お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
-          "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault_live.jpg",
-          "scheduledStartTime": "2026-09-23T11:00:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        }
-      ]
+      "live": true,
+      "liveBroadcast": {
+        "id": "S9L5sKg1ZnQ",
+        "title": "【🔴縦型Live】お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
+        "thumbnail": "https://i.ytimg.com/vi/S9L5sKg1ZnQ/hqdefault_live.jpg",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-23T11:04:43Z",
+        "concurrentViewers": "6"
+      },
+      "upcoming": []
     },
     {
       "name": "三毛猫わらび🐈🥦",
@@ -181,7 +179,7 @@
       "videos": [
         {
           "id": "jQ0FXysY6MY",
-          "title": "ヘンゼルとグレーテルのやり取りが面白すぎる【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
+          "title": "ヘンゼルとグレーテルのやり取りが面白すぎ【三毛猫わらび】#vtuber  #shorts #コント #バズれ #ギャグマンガ日和",
           "thumbnail": "https://i.ytimg.com/vi/jQ0FXysY6MY/hqdefault.jpg",
           "publishedAt": "2026-09-23T03:06:25Z"
         },
@@ -231,7 +229,7 @@
       "shorts": [
         {
           "id": "jQ0FXysY6MY",
-          "title": "ヘンゼルとグレーテルのやり取りが面白すぎる【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
+          "title": "ヘンゼルとグレーテルのやり取りが面白すぎ【三毛猫わらび】#vtuber  #shorts #コント #バズれ #ギャグマンガ日和",
           "thumbnail": "https://i.ytimg.com/vi/jQ0FXysY6MY/hqdefault.jpg",
           "publishedAt": "2026-09-23T03:06:25Z"
         },
