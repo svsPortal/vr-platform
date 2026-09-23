@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T11:47:04.255606+00:00",
+  "updatedAt": "2026-09-23T17:10:49.441147+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -110,16 +110,22 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "32wqpq9fgCI",
+          "title": "【🔴縦型Live】お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
+          "thumbnail": "https://i.ytimg.com/vi/32wqpq9fgCI/hqdefault_live.jpg",
+          "publishedAt": "2026-09-23T15:40:17Z"
+        },
+        {
           "id": "S9L5sKg1ZnQ",
           "title": "【🔴縦型Live】お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
-          "thumbnail": "https://i.ytimg.com/vi/S9L5sKg1ZnQ/hqdefault_live.jpg",
-          "publishedAt": "2026-09-23T11:04:43Z"
+          "thumbnail": "https://i.ytimg.com/vi/S9L5sKg1ZnQ/hqdefault.jpg",
+          "publishedAt": "2026-09-23T15:10:32Z"
         },
         {
           "id": "ydqDOL-tQy0",
           "title": "お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
-          "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault_live.jpg",
-          "publishedAt": "2026-09-23T11:02:05Z"
+          "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault.jpg",
+          "publishedAt": "2026-09-23T15:08:38Z"
         },
         {
           "id": "6AuxqXBpJWk",
@@ -150,24 +156,11 @@
           "title": "荷物を届けるだけって聞いてたんですが？ #男性vtuber #vtuber #例外配達",
           "thumbnail": "https://i.ytimg.com/vi/_SRpyBlizjg/hqdefault.jpg",
           "publishedAt": "2026-09-18T08:00:30Z"
-        },
-        {
-          "id": "jaW688bKOJI",
-          "title": "【雑談】50人に挨拶したい！【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/jaW688bKOJI/hqdefault.jpg",
-          "publishedAt": "2026-09-16T14:28:07Z"
         }
       ],
       "shorts": [],
-      "live": true,
-      "liveBroadcast": {
-        "id": "S9L5sKg1ZnQ",
-        "title": "【🔴縦型Live】お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
-        "thumbnail": "https://i.ytimg.com/vi/S9L5sKg1ZnQ/hqdefault_live.jpg",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-23T11:04:43Z",
-        "concurrentViewers": "6"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": []
     },
     {
