@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-22T21:24:55.323137+00:00",
+  "updatedAt": "2026-09-23T04:51:31.890813+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "922人",
+      "subs": "923人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -176,9 +176,15 @@
       "name": "三毛猫わらび🐈🥦",
       "channelId": "UC3bYL1a4b64ZYUy8Ow11H8g",
       "youtube": "https://www.youtube.com/channel/UC3bYL1a4b64ZYUy8Ow11H8g",
-      "subs": "4,750人",
+      "subs": "4,740人",
       "avatar": "https://yt3.ggpht.com/WdS4Wl7DgOVmZ4lpA3dArA0d3w8fr-XPHvD-QUlt0eUvToTNqNDT18UocQHQOdX9xBDXNDnzNw=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "jQ0FXysY6MY",
+          "title": "ヘンゼルとグレーテルのやり取りが面白すぎる【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
+          "thumbnail": "https://i.ytimg.com/vi/jQ0FXysY6MY/hqdefault.jpg",
+          "publishedAt": "2026-09-23T03:06:25Z"
+        },
         {
           "id": "XsBqFuKxQ3o",
           "title": "変わった趣味【三毛猫わらび】#vtuber切り抜き #vtuber  #shorts #切り抜き",
@@ -220,15 +226,15 @@
           "title": "なんとなくで選んだプレゼント【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
           "thumbnail": "https://i.ytimg.com/vi/THqTAI70eKs/hqdefault.jpg",
           "publishedAt": "2026-08-22T03:00:13Z"
-        },
-        {
-          "id": "GyirxUrw3ww",
-          "title": "どんどん上手くなる子【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
-          "thumbnail": "https://i.ytimg.com/vi/GyirxUrw3ww/hqdefault.jpg",
-          "publishedAt": "2026-08-20T03:02:43Z"
         }
       ],
       "shorts": [
+        {
+          "id": "jQ0FXysY6MY",
+          "title": "ヘンゼルとグレーテルのやり取りが面白すぎる【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
+          "thumbnail": "https://i.ytimg.com/vi/jQ0FXysY6MY/hqdefault.jpg",
+          "publishedAt": "2026-09-23T03:06:25Z"
+        },
         {
           "id": "XsBqFuKxQ3o",
           "title": "変わった趣味【三毛猫わらび】#vtuber切り抜き #vtuber  #shorts #切り抜き",
@@ -258,12 +264,6 @@
           "title": "なんとなくで選んだプレゼント【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
           "thumbnail": "https://i.ytimg.com/vi/THqTAI70eKs/hqdefault.jpg",
           "publishedAt": "2026-08-22T03:00:13Z"
-        },
-        {
-          "id": "GyirxUrw3ww",
-          "title": "どんどん上手くなる子【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
-          "thumbnail": "https://i.ytimg.com/vi/GyirxUrw3ww/hqdefault.jpg",
-          "publishedAt": "2026-08-20T03:02:43Z"
         }
       ],
       "live": false,
