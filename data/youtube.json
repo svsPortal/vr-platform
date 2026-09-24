@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-23T21:34:25.735240+00:00",
+  "updatedAt": "2026-09-24T05:00:07.542780+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "923人",
+      "subs": "925人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -167,9 +167,15 @@
       "name": "三毛猫わらび🐈🥦",
       "channelId": "UC3bYL1a4b64ZYUy8Ow11H8g",
       "youtube": "https://www.youtube.com/channel/UC3bYL1a4b64ZYUy8Ow11H8g",
-      "subs": "4,740人",
+      "subs": "4,750人",
       "avatar": "https://yt3.ggpht.com/WdS4Wl7DgOVmZ4lpA3dArA0d3w8fr-XPHvD-QUlt0eUvToTNqNDT18UocQHQOdX9xBDXNDnzNw=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "b3_ebGnIA2U",
+          "title": "【#DQM4】完全初見🔰DQMシリーズ初プレイ！体験版で遊んでみる～。【#ドラゴンクエストモンスターズ4】※ネタバレ注意！概要欄必読。",
+          "thumbnail": "https://i.ytimg.com/vi/b3_ebGnIA2U/hqdefault.jpg",
+          "publishedAt": "2026-09-24T04:13:10Z"
+        },
         {
           "id": "jQ0FXysY6MY",
           "title": "ヘンゼルとグレーテルのやり取りが面白すぎ【三毛猫わらび】#vtuber  #shorts #コント #バズれ #ギャグマンガ日和",
@@ -211,12 +217,6 @@
           "title": "なぜか流行ってる占い師【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
           "thumbnail": "https://i.ytimg.com/vi/4HLOaiq5nlo/hqdefault.jpg",
           "publishedAt": "2026-08-26T03:00:37Z"
-        },
-        {
-          "id": "THqTAI70eKs",
-          "title": "なんとなくで選んだプレゼント【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
-          "thumbnail": "https://i.ytimg.com/vi/THqTAI70eKs/hqdefault.jpg",
-          "publishedAt": "2026-08-22T03:00:13Z"
         }
       ],
       "shorts": [
@@ -249,12 +249,6 @@
           "title": "なぜか流行ってる占い師【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
           "thumbnail": "https://i.ytimg.com/vi/4HLOaiq5nlo/hqdefault.jpg",
           "publishedAt": "2026-08-26T03:00:37Z"
-        },
-        {
-          "id": "THqTAI70eKs",
-          "title": "なんとなくで選んだプレゼント【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
-          "thumbnail": "https://i.ytimg.com/vi/THqTAI70eKs/hqdefault.jpg",
-          "publishedAt": "2026-08-22T03:00:13Z"
         }
       ],
       "live": false,
