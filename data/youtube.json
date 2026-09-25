@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-09-25T05:04:16.295369+00:00",
+  "updatedAt": "2026-09-25T11:57:35.261345+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "926人",
+      "subs": "927人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -110,6 +110,12 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "SgB_721Nn-8",
+          "title": "肉を食べに来たのに野菜で満腹になる男性Vtuber #しゃぶしゃぶ食べ放題 #vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/SgB_721Nn-8/hqdefault.jpg",
+          "publishedAt": "2026-09-25T08:00:00Z"
+        },
+        {
           "id": "kTN4U_7H4dM",
           "title": "【縦型Live】事故物件を監視するだけの簡単なお仕事【日本事故物件監視協会 -JSP- 】",
           "thumbnail": "https://i.ytimg.com/vi/kTN4U_7H4dM/hqdefault.jpg",
@@ -150,12 +156,6 @@
           "title": "【ビンゴ耐久】配信ビンゴに初挑戦...！【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/50BHUcYvxOw/hqdefault.jpg",
           "publishedAt": "2026-09-20T14:13:07Z"
-        },
-        {
-          "id": "UOAHCUSTXg0",
-          "title": "秋の雀魂参加型！🀄【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/UOAHCUSTXg0/hqdefault.jpg",
-          "publishedAt": "2026-09-19T14:18:26Z"
         }
       ],
       "shorts": [],
