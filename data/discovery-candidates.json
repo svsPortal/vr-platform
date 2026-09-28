@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T21:25:13.361943+00:00",
+  "updatedAt": "2026-09-28T05:32:19.305664+00:00",
   "mode": "review-only",
   "candidates": [
     {
@@ -132,6 +132,20 @@
       "status": "review"
     },
     {
+      "channelId": "UCKaSWBA3xtbm9eXVZFFB6Ig",
+      "name": "ソレイユ@新人Vtuber",
+      "description": "新人個人勢Vtuberです！\nTwitchにて夏乃ソレイユという名前でゲーム配信しております。\n現状ＰＣのスペックが足りないため、同時配信ではなくTwitchの切り抜きになります。\nまだまだ至らぬ点が多いですが、よろしければ動画を見ていただけると嬉しいです。",
+      "subs": 107,
+      "avatar": "https://yt3.ggpht.com/sR010hcib_6KJnYqoxlOSqcMhbdqetCssXUChtF5Qb2Idjasrln8pTt6dl1Fn4Lx_I57BEJnhFc=s800-c-k-c0x00ffffff-no-rj",
+      "youtube": "https://www.youtube.com/channel/UCKaSWBA3xtbm9eXVZFFB6Ig",
+      "signals": [
+        "vtuber",
+        "個人勢",
+        "新人v"
+      ],
+      "status": "review"
+    },
+    {
       "channelId": "UCQqvaYqznGU4B0vx0b4srDg",
       "name": "暖布鋤いおと@11月22日初配信",
       "description": "🐾白柴たちにうずもれて眠りたい🐾\n          お布団大好きな個人勢Vtuber\n\n         暖布鋤 いおと 🐕 ͗ ͗\n          (だんふすき)\n\n💠詳細💠https://piku.page/@Ioto_dan\n\nマシュマロも募集⸜(՞˙꒳˙՞)⸝\n https://x.gd/Oa4sQ\n\n\n\n\n",
@@ -176,7 +190,7 @@
       "channelId": "UCWnQlKjkZkBX7l9GJkWCylw",
       "name": "ハヲ@個人Vtuber",
       "description": "個人勢のVtuberです。\n好きなようにやっていきます。\n\n更新日時:不定期\n活動内容:ゲーム配信、動画、雑談\n\nファンネーム:ハヲロン\nファンマーク:🐼💴\nファンアートタグ:#ハヲへの献上品\n配信タグ:#ニーハヲ\n\n\n\nhawo0606@gmail.com\n\n生みの親：いくるみ　ゆむ（むゐむ）様\n　　　　　https://x.com/muyimuruki\n　　　　　https://x.com/ikurumidwd\n　　　　　muyimuruki@gmail.com\n",
-      "subs": 247,
+      "subs": 246,
       "avatar": "https://yt3.ggpht.com/WKq3cETn5uYSn-210-48Dpj2KrHbs7hg9EVqAE2r7A2Rsp4eRGbxxnuDVsNZJVZZ3tK2wU7U=s800-c-k-c0x00ffffff-no-rj",
       "youtube": "https://www.youtube.com/channel/UCWnQlKjkZkBX7l9GJkWCylw",
       "signals": [
@@ -189,7 +203,7 @@
       "channelId": "UCV-jEZYnO5O4mtTKT6uabeA",
       "name": "美波あろえꕤ︎︎·͜·　#新人Vtuber",
       "description": "5/1デビューの美波あろえです！\n本物の姿公開しましたー！\n目指せ、まずは100動画投稿！！\nそして2D化して真の姿を見て欲しい🥺",
-      "subs": 254,
+      "subs": 253,
       "avatar": "https://yt3.ggpht.com/_VVRPW9PqEZEQ6Y6ZVKcTbMA-XK0QZmrGtXEtV0iikeIZBx2UxPLiUTwF8lGEPHj5lhBXcL7og=s800-c-k-c0x00ffffff-no-rj",
       "youtube": "https://www.youtube.com/channel/UCV-jEZYnO5O4mtTKT6uabeA",
       "signals": [
@@ -202,7 +216,7 @@
       "channelId": "UCIRCkFivuXghFD7WvlQpuMQ",
       "name": "阿冠なぎ@新人VTuber",
       "description": "あかんなぎです👑🦋\n\n脱引きこもりを目指すVTuber 🔥￤兼業個人勢 Vtuber ￤ゆっくりマイペースにがんばる\n\n良かったら仲良くしてね！\n\n\n\n5/2 デビュー\n5/28 チャンネル登録100人達成！\n6/13 初配信\n7/22 チャンネル登録200人達成！",
-      "subs": 323,
+      "subs": 325,
       "avatar": "https://yt3.ggpht.com/_tzcBONv7vP47SKp_1HpUtUemDCudlAqzcVe2HP8j3JNBacDVuNbrVnGd7JWPdAhJkbDWPz2UU4=s800-c-k-c0x00ffffff-no-rj",
       "youtube": "https://www.youtube.com/channel/UCIRCkFivuXghFD7WvlQpuMQ",
       "signals": [
@@ -283,20 +297,6 @@
       "youtube": "https://www.youtube.com/channel/UCkIejzLYMHADlwAhIsuJw-A",
       "signals": [
         "vtuber"
-      ],
-      "status": "review"
-    },
-    {
-      "channelId": "UC2fxrhzA5HdX5RMxTlSk5yA",
-      "name": "猫乃みるく🎀🐾",
-      "description": "猫とゲームとニンフィアちゃんと\n歌を歌うことが大好きな\n猫メイド🐾猫乃みるくです🎀\n\n2026.04.02 デビューの新人VTuberです❤︎\n毎日19:00にshorts投稿しています(⑅•ᴗ•⑅)◜°♡ﾟ･*\n\nゲーム実況メインで配信もしています( ੭ ･ᴗ･ )੭\n\n初見さん・コメント大歓迎です！\n\n高評価・チャンネル登録で応援してもらえたら嬉しいです 🧸\n\n今なら最古参♡認知100％なのでぜひ推してください🩷໒꒱\n\n\n♡┈┈┈┈┈┈┈┈┈┈┈┈┈┈♡ \n　 #Vtuber\n    #新人Vtuber \n    #個人勢Vtuber  \n♡┈┈┈┈┈┈┈┈┈┈┈┈┈┈♡\n\n     🎀Special Thanks🎀\n\n       イラスト&モデリング : しばまる様\n\n♡┈┈┈┈┈┈┈┈┈┈┈┈┈┈♡\n",
-      "subs": 4960,
-      "avatar": "https://yt3.ggpht.com/gfXtpOX2N-RQ7ySpJqPc8OQ9OhJ72sSYfgY034hs0b3Nu16fiGR3mpVztcPUPH9QpXLHbj6kzg=s800-c-k-c0x00ffffff-no-rj",
-      "youtube": "https://www.youtube.com/channel/UC2fxrhzA5HdX5RMxTlSk5yA",
-      "signals": [
-        "vtuber",
-        "個人勢",
-        "新人v"
       ],
       "status": "review"
     },
