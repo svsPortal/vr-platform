@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-09-29T05:50:27.600544+00:00",
+  "updatedAt": "2026-09-29T13:01:50.000079+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "932人",
+      "subs": "933人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "fLuLm25KHfU",
+          "title": "【 #コラボ 】#howtofish  自分 魚 捌けます！！！【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/fLuLm25KHfU/hqdefault_live.jpg",
+          "publishedAt": "2026-09-29T12:02:15Z"
+        },
         {
           "id": "7YgY_Mc6Jro",
           "title": "【 #参加型 】#雀魂 三麻　初見さんも初心者さんも今日はゆるく遊びましょーの第二回【 #雪明みてん #新人Vtuber 】",
@@ -49,12 +55,6 @@
           "title": "好きなアーティストいる？ #shorts #vtuber #新人vtuber",
           "thumbnail": "https://i.ytimg.com/vi/K2QOEgsmyRs/hqdefault.jpg",
           "publishedAt": "2026-09-13T09:07:09Z"
-        },
-        {
-          "id": "eVN2t7WveeI",
-          "title": "圧倒的に… #shorts #vtuber #新人vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/eVN2t7WveeI/hqdefault.jpg",
-          "publishedAt": "2026-09-12T09:03:39Z"
         }
       ],
       "shorts": [
@@ -81,26 +81,18 @@
           "title": "好きなアーティストいる？ #shorts #vtuber #新人vtuber",
           "thumbnail": "https://i.ytimg.com/vi/K2QOEgsmyRs/hqdefault.jpg",
           "publishedAt": "2026-09-13T09:07:09Z"
-        },
-        {
-          "id": "eVN2t7WveeI",
-          "title": "圧倒的に… #shorts #vtuber #新人vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/eVN2t7WveeI/hqdefault.jpg",
-          "publishedAt": "2026-09-12T09:03:39Z"
         }
       ],
-      "live": false,
-      "liveBroadcast": null,
-      "upcoming": [
-        {
-          "id": "fLuLm25KHfU",
-          "title": "【 #コラボ 】#howtofish  自分 魚 捌けます！！！【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/fLuLm25KHfU/hqdefault_live.jpg",
-          "scheduledStartTime": "2026-09-29T12:00:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        }
-      ]
+      "live": true,
+      "liveBroadcast": {
+        "id": "fLuLm25KHfU",
+        "title": "【 #コラボ 】#howtofish  自分 魚 捌けます！！！【 #雪明みてん #新人Vtuber 】",
+        "thumbnail": "https://i.ytimg.com/vi/fLuLm25KHfU/hqdefault_live.jpg",
+        "scheduledStartTime": "2026-09-29T12:00:00Z",
+        "actualStartTime": "2026-09-29T12:02:15Z",
+        "concurrentViewers": "11"
+      },
+      "upcoming": []
     },
     {
       "name": "天城リクト | Amagi Rikuto",
@@ -109,6 +101,18 @@
       "subs": "2,570人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "32wqpq9fgCI",
+          "title": "【縦型】ひとまずクリアを目指す！【リズム天国 ミラクルスターズ】",
+          "thumbnail": "https://i.ytimg.com/vi/32wqpq9fgCI/hqdefault_live.jpg",
+          "publishedAt": "2026-09-29T12:07:07Z"
+        },
+        {
+          "id": "dSfE3U0w7P0",
+          "title": "【リズム天国 ミラクルスターズ】クリアを目指して！③【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/dSfE3U0w7P0/hqdefault_live.jpg",
+          "publishedAt": "2026-09-29T12:03:37Z"
+        },
         {
           "id": "SgB_721Nn-8",
           "title": "肉を食べに来たのに野菜で満腹になる男性Vtuber #しゃぶしゃぶ食べ放題 #vtuber",
@@ -120,12 +124,6 @@
           "title": "【縦型Live】事故物件を監視するだけの簡単なお仕事【日本事故物件監視協会 -JSP- 】",
           "thumbnail": "https://i.ytimg.com/vi/kTN4U_7H4dM/hqdefault.jpg",
           "publishedAt": "2026-09-23T18:12:22Z"
-        },
-        {
-          "id": "32wqpq9fgCI",
-          "title": "【🔴縦型Live】お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
-          "thumbnail": "https://i.ytimg.com/vi/32wqpq9fgCI/hqdefault_live.jpg",
-          "publishedAt": "2026-09-23T15:40:17Z"
         },
         {
           "id": "S9L5sKg1ZnQ",
@@ -150,17 +148,18 @@
           "title": "【日本事故物件監視協会 -JSP- 】事故物件を監視するだけの簡単なお仕事【初見プレイ】",
           "thumbnail": "https://i.ytimg.com/vi/FCHGLMO3vGA/hqdefault.jpg",
           "publishedAt": "2026-09-21T14:18:37Z"
-        },
-        {
-          "id": "50BHUcYvxOw",
-          "title": "【ビンゴ耐久】配信ビンゴに初挑戦...！【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/50BHUcYvxOw/hqdefault.jpg",
-          "publishedAt": "2026-09-20T14:13:07Z"
         }
       ],
       "shorts": [],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "32wqpq9fgCI",
+        "title": "【縦型】ひとまずクリアを目指す！【リズム天国 ミラクルスターズ】",
+        "thumbnail": "https://i.ytimg.com/vi/32wqpq9fgCI/hqdefault_live.jpg",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-29T12:07:07Z",
+        "concurrentViewers": "9"
+      },
       "upcoming": []
     },
     {
