@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T12:44:06.463152+00:00",
+  "updatedAt": "2026-09-30T22:21:45.818782+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -91,14 +91,20 @@
       "name": "天城リクト | Amagi Rikuto",
       "channelId": "UCSMbl2XhcCjL-x_0yrrUU3g",
       "youtube": "https://www.youtube.com/@Amagi_Rikuto",
-      "subs": "2,580人",
+      "subs": "2,590人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
           "id": "FvrO_Ze97Nw",
           "title": "【縦型】ビンゴ開けていく！！【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/FvrO_Ze97Nw/hqdefault_live.jpg",
-          "publishedAt": "2026-09-30T12:29:43Z"
+          "thumbnail": "https://i.ytimg.com/vi/FvrO_Ze97Nw/hqdefault.jpg",
+          "publishedAt": "2026-09-30T15:28:21Z"
+        },
+        {
+          "id": "6Qr5n0-mJe4",
+          "title": "【縦型】ビンゴ開けていく！！【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/6Qr5n0-mJe4/hqdefault_live.jpg",
+          "publishedAt": "2026-09-30T15:19:32Z"
         },
         {
           "id": "dSfE3U0w7P0",
@@ -135,24 +141,11 @@
           "title": "お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
           "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault.jpg",
           "publishedAt": "2026-09-23T15:08:38Z"
-        },
-        {
-          "id": "6AuxqXBpJWk",
-          "title": "【🔴縦型Live】配信BINGOに挑戦！【難易度HARD】",
-          "thumbnail": "https://i.ytimg.com/vi/6AuxqXBpJWk/hqdefault.jpg",
-          "publishedAt": "2026-09-22T14:14:59Z"
         }
       ],
       "shorts": [],
-      "live": true,
-      "liveBroadcast": {
-        "id": "FvrO_Ze97Nw",
-        "title": "【縦型】ビンゴ開けていく！！【天城リクト/Vtuber】",
-        "thumbnail": "https://i.ytimg.com/vi/FvrO_Ze97Nw/hqdefault_live.jpg",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-09-30T12:29:43Z",
-        "concurrentViewers": "8"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": []
     },
     {
