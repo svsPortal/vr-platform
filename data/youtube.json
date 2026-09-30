@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T05:40:15.040671+00:00",
+  "updatedAt": "2026-09-30T12:44:06.463152+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -95,6 +95,12 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "FvrO_Ze97Nw",
+          "title": "【縦型】ビンゴ開けていく！！【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/FvrO_Ze97Nw/hqdefault_live.jpg",
+          "publishedAt": "2026-09-30T12:29:43Z"
+        },
+        {
           "id": "dSfE3U0w7P0",
           "title": "【リズム天国 ミラクルスターズ】クリアを目指して！③【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/dSfE3U0w7P0/hqdefault.jpg",
@@ -105,12 +111,6 @@
           "title": "【縦型】ひとまずクリアを目指す！【リズム天国 ミラクルスターズ】",
           "thumbnail": "https://i.ytimg.com/vi/32wqpq9fgCI/hqdefault.jpg",
           "publishedAt": "2026-09-30T03:06:38Z"
-        },
-        {
-          "id": "FvrO_Ze97Nw",
-          "title": "【縦型】ひとまずクリアを目指す！【リズム天国 ミラクルスターズ】",
-          "thumbnail": "https://i.ytimg.com/vi/FvrO_Ze97Nw/hqdefault_live.jpg",
-          "publishedAt": "2026-09-29T13:59:24Z"
         },
         {
           "id": "SgB_721Nn-8",
@@ -144,8 +144,15 @@
         }
       ],
       "shorts": [],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "FvrO_Ze97Nw",
+        "title": "【縦型】ビンゴ開けていく！！【天城リクト/Vtuber】",
+        "thumbnail": "https://i.ytimg.com/vi/FvrO_Ze97Nw/hqdefault_live.jpg",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-09-30T12:29:43Z",
+        "concurrentViewers": "8"
+      },
       "upcoming": []
     },
     {
