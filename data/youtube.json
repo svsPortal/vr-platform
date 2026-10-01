@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T13:28:18.328173+00:00",
+  "updatedAt": "2026-10-01T22:45:28.801367+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -85,26 +85,43 @@
       ],
       "live": false,
       "liveBroadcast": null,
-      "upcoming": []
+      "upcoming": [
+        {
+          "id": "fLpULN_15X4",
+          "title": "《タイアップ告知：2026.10.31 23:59まで》HATAラムネコラボ【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/fLpULN_15X4/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-10-31T14:59:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        },
+        {
+          "id": "wmi7hsnU8JE",
+          "title": "《グッズ告知《2026.10.31まで》ユメイロストリーム！【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/wmi7hsnU8JE/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-10-31T14:59:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        }
+      ]
     },
     {
       "name": "天城リクト | Amagi Rikuto",
       "channelId": "UCSMbl2XhcCjL-x_0yrrUU3g",
       "youtube": "https://www.youtube.com/@Amagi_Rikuto",
-      "subs": "2,590人",
+      "subs": "2,600人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
-          "id": "6Qr5n0-mJe4",
-          "title": "【縦型Live】クリアを目指して！【リズム天国ミラクルスターズ】",
-          "thumbnail": "https://i.ytimg.com/vi/6Qr5n0-mJe4/hqdefault_live.jpg",
-          "publishedAt": "2026-10-01T12:10:53Z"
-        },
-        {
           "id": "gUDzv0OsZTw",
           "title": "【リズム天国 ミラクルスターズ】クリアを目指して！④【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/gUDzv0OsZTw/hqdefault_live.jpg",
-          "publishedAt": "2026-10-01T12:08:07Z"
+          "thumbnail": "https://i.ytimg.com/vi/gUDzv0OsZTw/hqdefault.jpg",
+          "publishedAt": "2026-10-01T14:33:41Z"
+        },
+        {
+          "id": "6Qr5n0-mJe4",
+          "title": "【縦型Live】クリアを目指して！【リズム天国ミラクルスターズ】",
+          "thumbnail": "https://i.ytimg.com/vi/6Qr5n0-mJe4/hqdefault.jpg",
+          "publishedAt": "2026-10-01T14:23:48Z"
         },
         {
           "id": "FvrO_Ze97Nw",
@@ -144,15 +161,8 @@
         }
       ],
       "shorts": [],
-      "live": true,
-      "liveBroadcast": {
-        "id": "6Qr5n0-mJe4",
-        "title": "【縦型Live】クリアを目指して！【リズム天国ミラクルスターズ】",
-        "thumbnail": "https://i.ytimg.com/vi/6Qr5n0-mJe4/hqdefault_live.jpg",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-01T12:10:53Z",
-        "concurrentViewers": "9"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": []
     },
     {
