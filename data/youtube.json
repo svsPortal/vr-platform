@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-01T06:05:47.067092+00:00",
+  "updatedAt": "2026-10-01T13:28:18.328173+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "935人",
+      "subs": "936人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -95,16 +95,22 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "6Qr5n0-mJe4",
+          "title": "【縦型Live】クリアを目指して！【リズム天国ミラクルスターズ】",
+          "thumbnail": "https://i.ytimg.com/vi/6Qr5n0-mJe4/hqdefault_live.jpg",
+          "publishedAt": "2026-10-01T12:10:53Z"
+        },
+        {
+          "id": "gUDzv0OsZTw",
+          "title": "【リズム天国 ミラクルスターズ】クリアを目指して！④【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/gUDzv0OsZTw/hqdefault_live.jpg",
+          "publishedAt": "2026-10-01T12:08:07Z"
+        },
+        {
           "id": "FvrO_Ze97Nw",
           "title": "【縦型】ビンゴ開けていく！！【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/FvrO_Ze97Nw/hqdefault.jpg",
           "publishedAt": "2026-09-30T15:28:21Z"
-        },
-        {
-          "id": "6Qr5n0-mJe4",
-          "title": "【縦型】ビンゴ開けていく！！【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/6Qr5n0-mJe4/hqdefault_live.jpg",
-          "publishedAt": "2026-09-30T15:19:32Z"
         },
         {
           "id": "dSfE3U0w7P0",
@@ -135,17 +141,18 @@
           "title": "【🔴縦型Live】お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
           "thumbnail": "https://i.ytimg.com/vi/S9L5sKg1ZnQ/hqdefault.jpg",
           "publishedAt": "2026-09-23T15:10:32Z"
-        },
-        {
-          "id": "ydqDOL-tQy0",
-          "title": "お酒片手に、ゆったり世界を散歩する④【ゼルダの伝説TotK】",
-          "thumbnail": "https://i.ytimg.com/vi/ydqDOL-tQy0/hqdefault.jpg",
-          "publishedAt": "2026-09-23T15:08:38Z"
         }
       ],
       "shorts": [],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "6Qr5n0-mJe4",
+        "title": "【縦型Live】クリアを目指して！【リズム天国ミラクルスターズ】",
+        "thumbnail": "https://i.ytimg.com/vi/6Qr5n0-mJe4/hqdefault_live.jpg",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-01T12:10:53Z",
+        "concurrentViewers": "9"
+      },
       "upcoming": []
     },
     {
