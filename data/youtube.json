@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T11:46:52.397531+00:00",
+  "updatedAt": "2026-10-03T16:28:11.656826+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -108,9 +108,21 @@
       "name": "天城リクト | Amagi Rikuto",
       "channelId": "UCSMbl2XhcCjL-x_0yrrUU3g",
       "youtube": "https://www.youtube.com/@Amagi_Rikuto",
-      "subs": "2,600人",
+      "subs": "2,610人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "HY5ek-LunO4",
+          "title": "【縦型雑談】たまにはゆったりしたBINGO",
+          "thumbnail": "https://i.ytimg.com/vi/HY5ek-LunO4/hqdefault.jpg",
+          "publishedAt": "2026-10-03T14:41:15Z"
+        },
+        {
+          "id": "1Qp0Igwxg20",
+          "title": "【縦型雑談】たまにはゆったりしたBINGO",
+          "thumbnail": "https://i.ytimg.com/vi/1Qp0Igwxg20/hqdefault_live.jpg",
+          "publishedAt": "2026-10-03T14:33:12Z"
+        },
         {
           "id": "gaAISm2ph6o",
           "title": "【sobosuba】ちょっと触るだけのつもりが、やめられなくなりそう【天城リクト/Vtuber】",
@@ -122,12 +134,6 @@
           "title": "【縦型Live】ちょっと触るだけのつもりが、やめられなくなりそう【sobosuba】",
           "thumbnail": "https://i.ytimg.com/vi/NzQtghQ5ecA/hqdefault.jpg",
           "publishedAt": "2026-10-03T02:36:30Z"
-        },
-        {
-          "id": "HY5ek-LunO4",
-          "title": "【縦型Live】ちょっと触るだけのつもりが、やめられなくなりそう【sobosuba】",
-          "thumbnail": "https://i.ytimg.com/vi/HY5ek-LunO4/hqdefault_live.jpg",
-          "publishedAt": "2026-10-02T14:20:50Z"
         },
         {
           "id": "QxaurqbRwnw",
@@ -152,12 +158,6 @@
           "title": "【縦型】ビンゴ開けていく！！【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/FvrO_Ze97Nw/hqdefault.jpg",
           "publishedAt": "2026-09-30T15:28:21Z"
-        },
-        {
-          "id": "dSfE3U0w7P0",
-          "title": "【リズム天国 ミラクルスターズ】クリアを目指して！③【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/dSfE3U0w7P0/hqdefault.jpg",
-          "publishedAt": "2026-09-30T03:24:15Z"
         }
       ],
       "shorts": [],
@@ -172,6 +172,12 @@
       "subs": "4,740人",
       "avatar": "https://yt3.ggpht.com/WdS4Wl7DgOVmZ4lpA3dArA0d3w8fr-XPHvD-QUlt0eUvToTNqNDT18UocQHQOdX9xBDXNDnzNw=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "LaZZFpNXHzA",
+          "title": "【switch2】obsでのゲーム画面、映像キャプチャ。画面がまぶしい違和感はこの設定かも！？【HDR】",
+          "thumbnail": "https://i.ytimg.com/vi/LaZZFpNXHzA/hqdefault.jpg",
+          "publishedAt": "2026-10-03T12:46:05Z"
+        },
         {
           "id": "b3_ebGnIA2U",
           "title": "【#DQM4】完全初見🔰DQMシリーズ初プレイ！体験版で遊んでみる～。【#ドラゴンクエストモンスターズ4】※ネタバレ注意！概要欄必読。",
@@ -213,12 +219,6 @@
           "title": "令和のお節介犯人【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
           "thumbnail": "https://i.ytimg.com/vi/8nz1NjfFv8g/hqdefault.jpg",
           "publishedAt": "2026-09-01T03:00:02Z"
-        },
-        {
-          "id": "4HLOaiq5nlo",
-          "title": "なぜか流行ってる占い師【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
-          "thumbnail": "https://i.ytimg.com/vi/4HLOaiq5nlo/hqdefault.jpg",
-          "publishedAt": "2026-08-26T03:00:37Z"
         }
       ],
       "shorts": [
@@ -245,12 +245,6 @@
           "title": "令和のお節介犯人【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
           "thumbnail": "https://i.ytimg.com/vi/8nz1NjfFv8g/hqdefault.jpg",
           "publishedAt": "2026-09-01T03:00:02Z"
-        },
-        {
-          "id": "4HLOaiq5nlo",
-          "title": "なぜか流行ってる占い師【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
-          "thumbnail": "https://i.ytimg.com/vi/4HLOaiq5nlo/hqdefault.jpg",
-          "publishedAt": "2026-08-26T03:00:37Z"
         }
       ],
       "live": false,
