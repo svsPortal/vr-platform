@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-03T21:24:45.466551+00:00",
+  "updatedAt": "2026-10-04T06:00:56.200319+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "936人",
+      "subs": "938人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -112,6 +112,12 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "PPxy0rYQkU4",
+          "title": "【リズム天国 ミラクルスターズ】リズムに乗っていく日曜夜⑤【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/PPxy0rYQkU4/hqdefault_live.jpg",
+          "publishedAt": "2026-10-04T04:08:56Z"
+        },
+        {
           "id": "HY5ek-LunO4",
           "title": "【縦型雑談】たまにはゆったりしたBINGO",
           "thumbnail": "https://i.ytimg.com/vi/HY5ek-LunO4/hqdefault.jpg",
@@ -119,7 +125,7 @@
         },
         {
           "id": "1Qp0Igwxg20",
-          "title": "【縦型雑談】たまにはゆったりしたBINGO",
+          "title": "【縦型Live】リズムに乗っていく日曜夜【リズム天国ミラクルスターズ】",
           "thumbnail": "https://i.ytimg.com/vi/1Qp0Igwxg20/hqdefault_live.jpg",
           "publishedAt": "2026-10-03T14:33:12Z"
         },
@@ -152,18 +158,21 @@
           "title": "【縦型Live】クリアを目指して！【リズム天国ミラクルスターズ】",
           "thumbnail": "https://i.ytimg.com/vi/6Qr5n0-mJe4/hqdefault.jpg",
           "publishedAt": "2026-10-01T14:23:48Z"
-        },
-        {
-          "id": "FvrO_Ze97Nw",
-          "title": "【縦型】ビンゴ開けていく！！【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/FvrO_Ze97Nw/hqdefault.jpg",
-          "publishedAt": "2026-09-30T15:28:21Z"
         }
       ],
       "shorts": [],
       "live": false,
       "liveBroadcast": null,
-      "upcoming": []
+      "upcoming": [
+        {
+          "id": "PPxy0rYQkU4",
+          "title": "【リズム天国 ミラクルスターズ】リズムに乗っていく日曜夜⑤【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/PPxy0rYQkU4/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-10-04T12:00:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        }
+      ]
     },
     {
       "name": "三毛猫わらび🐈🥦",
