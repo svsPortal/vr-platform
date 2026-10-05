@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T21:35:46.558813+00:00",
+  "updatedAt": "2026-10-05T05:50:25.765302+00:00",
   "mode": "review-only",
   "candidates": [
     {
@@ -16,19 +16,6 @@
       "status": "review"
     },
     {
-      "channelId": "UCmf4ScC2aqkLO01TjcpQz1g",
-      "name": "ともみ@個人勢Vtuber",
-      "description": "はじめまして☆個人勢Vtuberとして活動しております「ともみ」と申します！\n競馬、雑談、ゲーム実況などの動画をあげていく予定です☆よろしくお願いします☆\n\nTwitter：@tomomin24\n",
-      "subs": 6,
-      "avatar": "https://yt3.ggpht.com/4GN0zJH-o3fZmiv4zJIYfU0t97xPYD85--C-lpmiUGvabeJEso92CIWIHL_VDaS8ECAjEVComg=s800-c-k-c0x00ffffff-no-rj",
-      "youtube": "https://www.youtube.com/channel/UCmf4ScC2aqkLO01TjcpQz1g",
-      "signals": [
-        "vtuber",
-        "個人勢"
-      ],
-      "status": "review"
-    },
-    {
       "channelId": "UCareHWfm6kCyY_0FzAEBhlw",
       "name": "【 天ノ部 絢夏音 (てのべ あかね) 】 #新人Vtuber ",
       "description": "スピリチュアルカウンセラー準備中\nタロットメインにアナタの悩みの解決の\nお手伝いをさせていただけたら\n\n#今日の占い #占いVtuber  #タロット占い\n#Vtuber #３Dモデル #３D #新人Vtuber\n#Vtuber好きさんと繋がりたい #VTuberを発掘せよ\n",
@@ -38,6 +25,19 @@
       "signals": [
         "vtuber",
         "新人v"
+      ],
+      "status": "review"
+    },
+    {
+      "channelId": "UCmf4ScC2aqkLO01TjcpQz1g",
+      "name": "ともみ@個人勢Vtuber",
+      "description": "はじめまして☆個人勢Vtuberとして活動しております「ともみ」と申します！\n競馬、雑談、ゲーム実況などの動画をあげていく予定です☆よろしくお願いします☆\n\nTwitter：@tomomin24\n",
+      "subs": 6,
+      "avatar": "https://yt3.ggpht.com/4GN0zJH-o3fZmiv4zJIYfU0t97xPYD85--C-lpmiUGvabeJEso92CIWIHL_VDaS8ECAjEVComg=s800-c-k-c0x00ffffff-no-rj",
+      "youtube": "https://www.youtube.com/channel/UCmf4ScC2aqkLO01TjcpQz1g",
+      "signals": [
+        "vtuber",
+        "個人勢"
       ],
       "status": "review"
     },
@@ -88,6 +88,18 @@
       "signals": [
         "vtuber",
         "個人勢"
+      ],
+      "status": "review"
+    },
+    {
+      "channelId": "UCpqQ9rwQS9pCLWI5cnCivUw",
+      "name": "紫月さくら@Vtuber準備中",
+      "description": "ゲームしたり歌ったり作業したり～するよ！て！い！",
+      "subs": 40,
+      "avatar": "https://yt3.ggpht.com/o5PwEP-YhQgW6Q0LkPcAu13H4jgdVURVvDA_f786fs8vgCgjND3fEYlEIOkkTqk6TrDWqt6z6BM=s800-c-k-c0x00ffffff-no-rj",
+      "youtube": "https://www.youtube.com/channel/UCpqQ9rwQS9pCLWI5cnCivUw",
+      "signals": [
+        "vtuber"
       ],
       "status": "review"
     },
@@ -191,20 +203,6 @@
       "youtube": "https://www.youtube.com/channel/UCV-jEZYnO5O4mtTKT6uabeA",
       "signals": [
         "vtuber",
-        "新人v"
-      ],
-      "status": "review"
-    },
-    {
-      "channelId": "UCIRCkFivuXghFD7WvlQpuMQ",
-      "name": "阿冠なぎ@新人VTuber",
-      "description": "あかんなぎです👑🦋\n\n脱引きこもりを目指すVTuber 🔥￤兼業個人勢 Vtuber ￤ゆっくりマイペースにがんばる\n\n良かったら仲良くしてね！\n\n\n\n5/2 デビュー\n5/28 チャンネル登録100人達成！\n6/13 初配信\n7/22 チャンネル登録200人達成！",
-      "subs": 317,
-      "avatar": "https://yt3.ggpht.com/_tzcBONv7vP47SKp_1HpUtUemDCudlAqzcVe2HP8j3JNBacDVuNbrVnGd7JWPdAhJkbDWPz2UU4=s800-c-k-c0x00ffffff-no-rj",
-      "youtube": "https://www.youtube.com/channel/UCIRCkFivuXghFD7WvlQpuMQ",
-      "signals": [
-        "vtuber",
-        "個人勢",
         "新人v"
       ],
       "status": "review"
