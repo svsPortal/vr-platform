@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T05:50:24.862405+00:00",
+  "updatedAt": "2026-10-05T14:52:44.685457+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -8,6 +8,18 @@
       "subs": "938人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "6sGAsXsQ-OA",
+          "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
+          "publishedAt": "2026-10-05T06:09:16Z"
+        },
+        {
+          "id": "7teD0Td9lgk",
+          "title": "【 #雑談 】夜にゆっくり久しぶりにただただおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/7teD0Td9lgk/hqdefault_live.jpg",
+          "publishedAt": "2026-10-05T06:04:03Z"
+        },
         {
           "id": "fLuLm25KHfU",
           "title": "【 #コラボ 】#howtofish  自分 魚 捌けます！！！【 #雪明みてん #新人Vtuber 】",
@@ -43,18 +55,6 @@
           "title": "【 #参加型 】#雀魂 三麻　初見さんも初心者さんも今日はゆるく遊びましょー【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/4_31b-s30GI/hqdefault.jpg",
           "publishedAt": "2026-09-15T15:04:15Z"
-        },
-        {
-          "id": "rNIZ3f0uPck",
-          "title": "なまらめんこいVtuber #shorts #vtuber #新人vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/rNIZ3f0uPck/hqdefault.jpg",
-          "publishedAt": "2026-09-14T09:03:26Z"
-        },
-        {
-          "id": "K2QOEgsmyRs",
-          "title": "好きなアーティストいる？ #shorts #vtuber #新人vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/K2QOEgsmyRs/hqdefault.jpg",
-          "publishedAt": "2026-09-13T09:07:09Z"
         }
       ],
       "shorts": [
@@ -69,35 +69,31 @@
           "title": "お兄のせい。 #shorts #vtuber #新人vtuber",
           "thumbnail": "https://i.ytimg.com/vi/cv_kK9HDWRM/hqdefault.jpg",
           "publishedAt": "2026-09-16T09:20:29Z"
-        },
-        {
-          "id": "rNIZ3f0uPck",
-          "title": "なまらめんこいVtuber #shorts #vtuber #新人vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/rNIZ3f0uPck/hqdefault.jpg",
-          "publishedAt": "2026-09-14T09:03:26Z"
-        },
-        {
-          "id": "K2QOEgsmyRs",
-          "title": "好きなアーティストいる？ #shorts #vtuber #新人vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/K2QOEgsmyRs/hqdefault.jpg",
-          "publishedAt": "2026-09-13T09:07:09Z"
         }
       ],
       "live": false,
       "liveBroadcast": null,
       "upcoming": [
         {
-          "id": "fLpULN_15X4",
-          "title": "《タイアップ告知：2026.10.31 23:59まで》HATAラムネコラボ【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/fLpULN_15X4/hqdefault_live.jpg",
-          "scheduledStartTime": "2026-10-31T14:59:00Z",
+          "id": "7teD0Td9lgk",
+          "title": "【 #雑談 】夜にゆっくり久しぶりにただただおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/7teD0Td9lgk/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-10-06T12:00:00Z",
           "actualStartTime": null,
           "concurrentViewers": null
         },
         {
-          "id": "wmi7hsnU8JE",
-          "title": "《グッズ告知《2026.10.31まで》ユメイロストリーム！【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/wmi7hsnU8JE/hqdefault_live.jpg",
+          "id": "6sGAsXsQ-OA",
+          "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-10-08T12:00:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        },
+        {
+          "id": "fLpULN_15X4",
+          "title": "《タイアップ告知：2026.10.31 23:59まで》HATAラムネコラボ【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/fLpULN_15X4/hqdefault_live.jpg",
           "scheduledStartTime": "2026-10-31T14:59:00Z",
           "actualStartTime": null,
           "concurrentViewers": null
@@ -111,6 +107,18 @@
       "subs": "2,610人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "Brv0tvEeRUI",
+          "title": "寝る前に30分だけ話そう | 今日大忙しだった話【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/Brv0tvEeRUI/hqdefault_live.jpg",
+          "publishedAt": "2026-10-05T14:45:50Z"
+        },
+        {
+          "id": "-xIUNwgZ5x4",
+          "title": "寝る前に30分だけ話そう | 今日大忙しだった話【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/-xIUNwgZ5x4/hqdefault_live.jpg",
+          "publishedAt": "2026-10-05T14:45:41Z"
+        },
         {
           "id": "F82bXEcHH2w",
           "title": "【縦型Live】リズムに乗っていく日曜夜【リズム天国ミラクルスターズ】",
@@ -146,18 +154,6 @@
           "title": "青りんごに必死すぎるVTuber #リズム天国  #男性vtuber #vtuber",
           "thumbnail": "https://i.ytimg.com/vi/QxaurqbRwnw/hqdefault.jpg",
           "publishedAt": "2026-10-02T08:00:21Z"
-        },
-        {
-          "id": "gUDzv0OsZTw",
-          "title": "【リズム天国 ミラクルスターズ】クリアを目指して！④【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/gUDzv0OsZTw/hqdefault.jpg",
-          "publishedAt": "2026-10-01T14:33:41Z"
-        },
-        {
-          "id": "6Qr5n0-mJe4",
-          "title": "【縦型Live】クリアを目指して！【リズム天国ミラクルスターズ】",
-          "thumbnail": "https://i.ytimg.com/vi/6Qr5n0-mJe4/hqdefault.jpg",
-          "publishedAt": "2026-10-01T14:23:48Z"
         }
       ],
       "shorts": [],
