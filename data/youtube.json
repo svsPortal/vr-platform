@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-06T00:07:45.562215+00:00",
+  "updatedAt": "2026-10-06T06:29:36.686501+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "938人",
+      "subs": "939人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -108,16 +108,16 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "-xIUNwgZ5x4",
+          "title": "寝る前に30分だけ話そう | 今日大忙しだった話【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/-xIUNwgZ5x4/hqdefault.jpg",
+          "publishedAt": "2026-10-06T03:05:23Z"
+        },
+        {
           "id": "Brv0tvEeRUI",
           "title": "寝る前に30分だけ話そう | 今日大忙しだった話【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/Brv0tvEeRUI/hqdefault_live.jpg",
           "publishedAt": "2026-10-05T14:45:50Z"
-        },
-        {
-          "id": "-xIUNwgZ5x4",
-          "title": "寝る前に30分だけ話そう | 今日大忙しだった話【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/-xIUNwgZ5x4/hqdefault_live.jpg",
-          "publishedAt": "2026-10-05T14:45:41Z"
         },
         {
           "id": "F82bXEcHH2w",
@@ -169,6 +169,12 @@
       "avatar": "https://yt3.ggpht.com/WdS4Wl7DgOVmZ4lpA3dArA0d3w8fr-XPHvD-QUlt0eUvToTNqNDT18UocQHQOdX9xBDXNDnzNw=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "h-pWjXO60iY",
+          "title": "【雑談/朝活】こんにちはを言いたい～！ROM勢さんも大歓迎✨️【 三毛猫わらび / vtuber 】【三毛猫わらび🐈️🥦】【個人勢VTuber】",
+          "thumbnail": "https://i.ytimg.com/vi/h-pWjXO60iY/hqdefault_live.jpg",
+          "publishedAt": "2026-10-06T04:04:04Z"
+        },
+        {
           "id": "LaZZFpNXHzA",
           "title": "【switch2】obsでのゲーム画面、映像キャプチャ。画面がまぶしい違和感はこの設定かも！？【HDR】",
           "thumbnail": "https://i.ytimg.com/vi/LaZZFpNXHzA/hqdefault.jpg",
@@ -209,12 +215,6 @@
           "title": "【雑談】初見さん歓迎！　雑談配信が好きな人が集まる個人Vtuber　ライブ配信中　雑談枠【三毛猫わらび🐈️🥦】【個人vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/UD8XsgKttH8/hqdefault.jpg",
           "publishedAt": "2026-09-10T01:49:42Z"
-        },
-        {
-          "id": "8nz1NjfFv8g",
-          "title": "令和のお節介犯人【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
-          "thumbnail": "https://i.ytimg.com/vi/8nz1NjfFv8g/hqdefault.jpg",
-          "publishedAt": "2026-09-01T03:00:02Z"
         }
       ],
       "shorts": [
@@ -235,12 +235,6 @@
           "title": "食べ放題は時間内に食べきればいい【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
           "thumbnail": "https://i.ytimg.com/vi/c5rbCW5TtK0/hqdefault.jpg",
           "publishedAt": "2026-09-18T03:00:21Z"
-        },
-        {
-          "id": "8nz1NjfFv8g",
-          "title": "令和のお節介犯人【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
-          "thumbnail": "https://i.ytimg.com/vi/8nz1NjfFv8g/hqdefault.jpg",
-          "publishedAt": "2026-09-01T03:00:02Z"
         }
       ],
       "live": false,
