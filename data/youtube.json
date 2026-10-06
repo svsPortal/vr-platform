@@ -1,24 +1,30 @@
 {
-  "updatedAt": "2026-10-06T06:29:36.686501+00:00",
+  "updatedAt": "2026-10-06T18:27:16.128766+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "939人",
+      "subs": "948人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "kW-5XrVYkYk",
+          "title": "【】【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/kW-5XrVYkYk/hqdefault_live.jpg",
+          "publishedAt": "2026-10-06T15:45:47Z"
+        },
+        {
+          "id": "7teD0Td9lgk",
+          "title": "【 #雑談 】夜にゆっくり久しぶりにただただおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/7teD0Td9lgk/hqdefault.jpg",
+          "publishedAt": "2026-10-06T15:42:00Z"
+        },
         {
           "id": "6sGAsXsQ-OA",
           "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
           "publishedAt": "2026-10-05T06:09:16Z"
-        },
-        {
-          "id": "7teD0Td9lgk",
-          "title": "【 #雑談 】夜にゆっくり久しぶりにただただおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/7teD0Td9lgk/hqdefault_live.jpg",
-          "publishedAt": "2026-10-05T06:04:03Z"
         },
         {
           "id": "fLuLm25KHfU",
@@ -49,12 +55,6 @@
           "title": "お兄のせい。 #shorts #vtuber #新人vtuber",
           "thumbnail": "https://i.ytimg.com/vi/cv_kK9HDWRM/hqdefault.jpg",
           "publishedAt": "2026-09-16T09:20:29Z"
-        },
-        {
-          "id": "4_31b-s30GI",
-          "title": "【 #参加型 】#雀魂 三麻　初見さんも初心者さんも今日はゆるく遊びましょー【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/4_31b-s30GI/hqdefault.jpg",
-          "publishedAt": "2026-09-15T15:04:15Z"
         }
       ],
       "shorts": [
@@ -75,14 +75,6 @@
       "liveBroadcast": null,
       "upcoming": [
         {
-          "id": "7teD0Td9lgk",
-          "title": "【 #雑談 】夜にゆっくり久しぶりにただただおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/7teD0Td9lgk/hqdefault_live.jpg",
-          "scheduledStartTime": "2026-10-06T12:00:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        },
-        {
           "id": "6sGAsXsQ-OA",
           "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
@@ -94,6 +86,14 @@
           "id": "fLpULN_15X4",
           "title": "《タイアップ告知：2026.10.31 23:59まで》HATAラムネコラボ【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/fLpULN_15X4/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-10-31T14:59:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        },
+        {
+          "id": "wmi7hsnU8JE",
+          "title": "《グッズ告知《2026.10.31まで》ユメイロストリーム！【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/wmi7hsnU8JE/hqdefault_live.jpg",
           "scheduledStartTime": "2026-10-31T14:59:00Z",
           "actualStartTime": null,
           "concurrentViewers": null
@@ -171,8 +171,8 @@
         {
           "id": "h-pWjXO60iY",
           "title": "【雑談/朝活】こんにちはを言いたい～！ROM勢さんも大歓迎✨️【 三毛猫わらび / vtuber 】【三毛猫わらび🐈️🥦】【個人勢VTuber】",
-          "thumbnail": "https://i.ytimg.com/vi/h-pWjXO60iY/hqdefault_live.jpg",
-          "publishedAt": "2026-10-06T04:04:04Z"
+          "thumbnail": "https://i.ytimg.com/vi/h-pWjXO60iY/hqdefault.jpg",
+          "publishedAt": "2026-10-06T16:14:41Z"
         },
         {
           "id": "LaZZFpNXHzA",
