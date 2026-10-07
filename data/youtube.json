@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T06:08:24.096423+00:00",
+  "updatedAt": "2026-10-07T13:33:56.623550+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -108,16 +108,16 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "Brv0tvEeRUI",
+          "title": "【雑談】寝る前、30分だけ話そう【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/Brv0tvEeRUI/hqdefault_live.jpg",
+          "publishedAt": "2026-10-07T13:04:57Z"
+        },
+        {
           "id": "-xIUNwgZ5x4",
           "title": "寝る前に30分だけ話そう | 今日大忙しだった話【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/-xIUNwgZ5x4/hqdefault.jpg",
           "publishedAt": "2026-10-06T03:05:23Z"
-        },
-        {
-          "id": "Brv0tvEeRUI",
-          "title": "寝る前に30分だけ話そう | 今日大忙しだった話【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/Brv0tvEeRUI/hqdefault_live.jpg",
-          "publishedAt": "2026-10-05T14:45:50Z"
         },
         {
           "id": "F82bXEcHH2w",
@@ -157,8 +157,15 @@
         }
       ],
       "shorts": [],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "Brv0tvEeRUI",
+        "title": "【雑談】寝る前、30分だけ話そう【天城リクト/Vtuber】",
+        "thumbnail": "https://i.ytimg.com/vi/Brv0tvEeRUI/hqdefault_live.jpg",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-07T13:04:57Z",
+        "concurrentViewers": "16"
+      },
       "upcoming": []
     },
     {
