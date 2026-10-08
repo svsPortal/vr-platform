@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-08T13:42:45.588982+00:00",
+  "updatedAt": "2026-10-08T23:25:27.739555+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -12,7 +12,7 @@
           "id": "6sGAsXsQ-OA",
           "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
-          "publishedAt": "2026-10-08T12:14:28Z"
+          "publishedAt": "2026-10-08T13:54:40Z"
         },
         {
           "id": "kW-5XrVYkYk",
@@ -71,15 +71,8 @@
           "publishedAt": "2026-09-16T09:20:29Z"
         }
       ],
-      "live": true,
-      "liveBroadcast": {
-        "id": "6sGAsXsQ-OA",
-        "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
-        "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
-        "scheduledStartTime": "2026-10-08T12:00:00Z",
-        "actualStartTime": "2026-10-08T12:14:28Z",
-        "concurrentViewers": "11"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": [
         {
           "id": "fLpULN_15X4",
