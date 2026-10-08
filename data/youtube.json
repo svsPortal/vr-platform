@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-10-08T06:15:12.365586+00:00",
+  "updatedAt": "2026-10-08T13:42:45.588982+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "948人",
+      "subs": "949人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "6sGAsXsQ-OA",
+          "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
+          "publishedAt": "2026-10-08T12:14:28Z"
+        },
         {
           "id": "kW-5XrVYkYk",
           "title": "【】【 #雪明みてん #新人Vtuber 】",
@@ -19,12 +25,6 @@
           "title": "【 #雑談 】夜にゆっくり久しぶりにただただおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/7teD0Td9lgk/hqdefault.jpg",
           "publishedAt": "2026-10-06T15:42:00Z"
-        },
-        {
-          "id": "6sGAsXsQ-OA",
-          "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
-          "publishedAt": "2026-10-05T06:09:16Z"
         },
         {
           "id": "fLuLm25KHfU",
@@ -71,17 +71,16 @@
           "publishedAt": "2026-09-16T09:20:29Z"
         }
       ],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "6sGAsXsQ-OA",
+        "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
+        "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
+        "scheduledStartTime": "2026-10-08T12:00:00Z",
+        "actualStartTime": "2026-10-08T12:14:28Z",
+        "concurrentViewers": "11"
+      },
       "upcoming": [
-        {
-          "id": "6sGAsXsQ-OA",
-          "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault_live.jpg",
-          "scheduledStartTime": "2026-10-08T12:00:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        },
         {
           "id": "fLpULN_15X4",
           "title": "《タイアップ告知：2026.10.31 23:59まで》HATAラムネコラボ【 #雪明みてん #新人Vtuber 】",
