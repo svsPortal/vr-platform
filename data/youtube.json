@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-10T06:00:17.867452+00:00",
+  "updatedAt": "2026-10-10T12:40:56.760879+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -100,6 +100,12 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "qbmi4l5666A",
+          "title": "【ビンゴ雑談】今週どうだった？皆の話も聞かせて！【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/qbmi4l5666A/hqdefault_live.jpg",
+          "publishedAt": "2026-10-10T12:01:15Z"
+        },
+        {
           "id": "uh96Ho8pAN4",
           "title": "事故物件の監視バイトでリスナーに詰められるVtuber #男性vtuber #ゲーム配信 #jsp",
           "thumbnail": "https://i.ytimg.com/vi/uh96Ho8pAN4/hqdefault.jpg",
@@ -110,12 +116,6 @@
           "title": "【雑談】寝る前、30分だけ話そう【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/Brv0tvEeRUI/hqdefault.jpg",
           "publishedAt": "2026-10-08T01:46:27Z"
-        },
-        {
-          "id": "qbmi4l5666A",
-          "title": "【雑談】寝る前、30分だけ話そう【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/qbmi4l5666A/hqdefault_live.jpg",
-          "publishedAt": "2026-10-07T13:41:07Z"
         },
         {
           "id": "-xIUNwgZ5x4",
@@ -149,8 +149,15 @@
         }
       ],
       "shorts": [],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "qbmi4l5666A",
+        "title": "【ビンゴ雑談】今週どうだった？皆の話も聞かせて！【天城リクト/Vtuber】",
+        "thumbnail": "https://i.ytimg.com/vi/qbmi4l5666A/hqdefault_live.jpg",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-10T12:01:15Z",
+        "concurrentViewers": "13"
+      },
       "upcoming": []
     },
     {
