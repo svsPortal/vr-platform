@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-10T12:40:56.760879+00:00",
+  "updatedAt": "2026-10-10T21:50:27.956273+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "948人",
+      "subs": "950人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -96,14 +96,20 @@
       "name": "天城リクト | Amagi Rikuto",
       "channelId": "UCSMbl2XhcCjL-x_0yrrUU3g",
       "youtube": "https://www.youtube.com/@Amagi_Rikuto",
-      "subs": "2,610人",
+      "subs": "2,620人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
           "id": "qbmi4l5666A",
           "title": "【ビンゴ雑談】今週どうだった？皆の話も聞かせて！【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/qbmi4l5666A/hqdefault_live.jpg",
-          "publishedAt": "2026-10-10T12:01:15Z"
+          "thumbnail": "https://i.ytimg.com/vi/qbmi4l5666A/hqdefault.jpg",
+          "publishedAt": "2026-10-10T15:01:42Z"
+        },
+        {
+          "id": "fSxWYfaWYos",
+          "title": "【ビンゴ雑談】今週どうだった？皆の話も聞かせて！【天城リクト/Vtuber】",
+          "thumbnail": "https://i.ytimg.com/vi/fSxWYfaWYos/hqdefault_live.jpg",
+          "publishedAt": "2026-10-10T14:51:10Z"
         },
         {
           "id": "uh96Ho8pAN4",
@@ -140,24 +146,11 @@
           "title": "【縦型雑談】たまにはゆったりしたBINGO",
           "thumbnail": "https://i.ytimg.com/vi/HY5ek-LunO4/hqdefault.jpg",
           "publishedAt": "2026-10-03T14:41:15Z"
-        },
-        {
-          "id": "gaAISm2ph6o",
-          "title": "【sobosuba】ちょっと触るだけのつもりが、やめられなくなりそう【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/gaAISm2ph6o/hqdefault.jpg",
-          "publishedAt": "2026-10-03T02:59:45Z"
         }
       ],
       "shorts": [],
-      "live": true,
-      "liveBroadcast": {
-        "id": "qbmi4l5666A",
-        "title": "【ビンゴ雑談】今週どうだった？皆の話も聞かせて！【天城リクト/Vtuber】",
-        "thumbnail": "https://i.ytimg.com/vi/qbmi4l5666A/hqdefault_live.jpg",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-10T12:01:15Z",
-        "concurrentViewers": "13"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": []
     },
     {
