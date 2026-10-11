@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T05:57:00.035776+00:00",
+  "updatedAt": "2026-10-11T13:01:46.795583+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "950人",
+      "subs": "953人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -95,16 +95,22 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "fSxWYfaWYos",
+          "title": "【縦型Live】お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
+          "thumbnail": "https://i.ytimg.com/vi/fSxWYfaWYos/hqdefault_live.jpg",
+          "publishedAt": "2026-10-11T11:03:52Z"
+        },
+        {
+          "id": "dqFtHjK5yFs",
+          "title": "お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
+          "thumbnail": "https://i.ytimg.com/vi/dqFtHjK5yFs/hqdefault_live.jpg",
+          "publishedAt": "2026-10-11T10:58:01Z"
+        },
+        {
           "id": "qbmi4l5666A",
           "title": "【ビンゴ雑談】今週どうだった？皆の話も聞かせて！【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/qbmi4l5666A/hqdefault.jpg",
           "publishedAt": "2026-10-10T15:01:42Z"
-        },
-        {
-          "id": "fSxWYfaWYos",
-          "title": "【ビンゴ雑談】今週どうだった？皆の話も聞かせて！【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/fSxWYfaWYos/hqdefault_live.jpg",
-          "publishedAt": "2026-10-10T14:51:10Z"
         },
         {
           "id": "uh96Ho8pAN4",
@@ -135,17 +141,18 @@
           "title": "【リズム天国 ミラクルスターズ】リズムに乗っていく日曜夜⑤【天城リクト/Vtuber】",
           "thumbnail": "https://i.ytimg.com/vi/PPxy0rYQkU4/hqdefault.jpg",
           "publishedAt": "2026-10-05T01:37:03Z"
-        },
-        {
-          "id": "HY5ek-LunO4",
-          "title": "【縦型雑談】たまにはゆったりしたBINGO",
-          "thumbnail": "https://i.ytimg.com/vi/HY5ek-LunO4/hqdefault.jpg",
-          "publishedAt": "2026-10-03T14:41:15Z"
         }
       ],
       "shorts": [],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "fSxWYfaWYos",
+        "title": "【縦型Live】お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
+        "thumbnail": "https://i.ytimg.com/vi/fSxWYfaWYos/hqdefault_live.jpg",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-11T11:03:52Z",
+        "concurrentViewers": "7"
+      },
       "upcoming": []
     },
     {
