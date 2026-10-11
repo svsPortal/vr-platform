@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-11T13:01:46.795583+00:00",
+  "updatedAt": "2026-10-11T22:05:04.477764+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "953人",
+      "subs": "952人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -91,20 +91,26 @@
       "name": "天城リクト | Amagi Rikuto",
       "channelId": "UCSMbl2XhcCjL-x_0yrrUU3g",
       "youtube": "https://www.youtube.com/@Amagi_Rikuto",
-      "subs": "2,620人",
+      "subs": "2,630人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "nXfVa2rXNhM",
+          "title": "【縦型Live】お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
+          "thumbnail": "https://i.ytimg.com/vi/nXfVa2rXNhM/hqdefault_live.jpg",
+          "publishedAt": "2026-10-11T15:03:50Z"
+        },
+        {
           "id": "fSxWYfaWYos",
           "title": "【縦型Live】お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
-          "thumbnail": "https://i.ytimg.com/vi/fSxWYfaWYos/hqdefault_live.jpg",
-          "publishedAt": "2026-10-11T11:03:52Z"
+          "thumbnail": "https://i.ytimg.com/vi/fSxWYfaWYos/hqdefault.jpg",
+          "publishedAt": "2026-10-11T14:13:43Z"
         },
         {
           "id": "dqFtHjK5yFs",
           "title": "お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
-          "thumbnail": "https://i.ytimg.com/vi/dqFtHjK5yFs/hqdefault_live.jpg",
-          "publishedAt": "2026-10-11T10:58:01Z"
+          "thumbnail": "https://i.ytimg.com/vi/dqFtHjK5yFs/hqdefault.jpg",
+          "publishedAt": "2026-10-11T14:07:00Z"
         },
         {
           "id": "qbmi4l5666A",
@@ -135,24 +141,11 @@
           "title": "【縦型Live】リズムに乗っていく日曜夜【リズム天国ミラクルスターズ】",
           "thumbnail": "https://i.ytimg.com/vi/F82bXEcHH2w/hqdefault.jpg",
           "publishedAt": "2026-10-05T01:41:26Z"
-        },
-        {
-          "id": "PPxy0rYQkU4",
-          "title": "【リズム天国 ミラクルスターズ】リズムに乗っていく日曜夜⑤【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/PPxy0rYQkU4/hqdefault.jpg",
-          "publishedAt": "2026-10-05T01:37:03Z"
         }
       ],
       "shorts": [],
-      "live": true,
-      "liveBroadcast": {
-        "id": "fSxWYfaWYos",
-        "title": "【縦型Live】お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
-        "thumbnail": "https://i.ytimg.com/vi/fSxWYfaWYos/hqdefault_live.jpg",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-11T11:03:52Z",
-        "concurrentViewers": "7"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": []
     },
     {
