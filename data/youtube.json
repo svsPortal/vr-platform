@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-10-13T00:47:50.369194+00:00",
+  "updatedAt": "2026-10-13T14:20:35.087983+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "953人",
+      "subs": "951人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "hm1WR4j6bXQ",
+          "title": "【 #絶対遵守 】先行プレイで遊ばせていただきます！ルールは絶対らしい！！！【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/hm1WR4j6bXQ/hqdefault.jpg",
+          "publishedAt": "2026-10-13T14:10:03Z"
+        },
         {
           "id": "UMwiogMPZKI",
           "title": "【 #雑談】#V描 参加報告とかイベント振り返りとかおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
@@ -19,12 +25,6 @@
           "title": "【 #キングダムハーツ2  】#６ いつも通り思い出すところからね! ※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/lvtiYTdwoyU/hqdefault_live.jpg",
           "publishedAt": "2026-10-11T02:24:10Z"
-        },
-        {
-          "id": "hm1WR4j6bXQ",
-          "title": "【 #絶対遵守 】先行プレイで遊ばせていただきます！ルールは絶対らしい！！！【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/hm1WR4j6bXQ/hqdefault_live.jpg",
-          "publishedAt": "2026-10-11T02:21:42Z"
         },
         {
           "id": "6sGAsXsQ-OA",
@@ -62,14 +62,6 @@
       "liveBroadcast": null,
       "upcoming": [
         {
-          "id": "hm1WR4j6bXQ",
-          "title": "【 #絶対遵守 】先行プレイで遊ばせていただきます！ルールは絶対らしい！！！【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/hm1WR4j6bXQ/hqdefault_live.jpg",
-          "scheduledStartTime": "2026-10-13T12:00:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        },
-        {
           "id": "lvtiYTdwoyU",
           "title": "【 #キングダムハーツ2  】#６ いつも通り思い出すところからね! ※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/lvtiYTdwoyU/hqdefault_live.jpg",
@@ -84,6 +76,14 @@
           "scheduledStartTime": "2026-10-31T14:59:00Z",
           "actualStartTime": null,
           "concurrentViewers": null
+        },
+        {
+          "id": "wmi7hsnU8JE",
+          "title": "《グッズ告知《2026.10.31まで》ユメイロストリーム！【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/wmi7hsnU8JE/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-10-31T14:59:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
         }
       ]
     },
@@ -95,16 +95,16 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "nXfVa2rXNhM",
+          "title": "【sobosuba】ゆったりスコア耐久！ #縦型配信 #shorts #sobosuba",
+          "thumbnail": "https://i.ytimg.com/vi/nXfVa2rXNhM/hqdefault.jpg",
+          "publishedAt": "2026-10-13T01:36:36Z"
+        },
+        {
           "id": "f9JMtkq5ssU",
           "title": "【sobosuba】ゆったりスコア耐久！ #縦型配信 #shorts #sobosuba",
           "thumbnail": "https://i.ytimg.com/vi/f9JMtkq5ssU/hqdefault_live.jpg",
           "publishedAt": "2026-10-12T13:16:21Z"
-        },
-        {
-          "id": "nXfVa2rXNhM",
-          "title": "【sobosuba】ゆったりスコア耐久！ #縦型配信 #shorts #sobosuba",
-          "thumbnail": "https://i.ytimg.com/vi/nXfVa2rXNhM/hqdefault_live.jpg",
-          "publishedAt": "2026-10-12T13:16:15Z"
         },
         {
           "id": "fSxWYfaWYos",
@@ -145,16 +145,16 @@
       ],
       "shorts": [
         {
+          "id": "nXfVa2rXNhM",
+          "title": "【sobosuba】ゆったりスコア耐久！ #縦型配信 #shorts #sobosuba",
+          "thumbnail": "https://i.ytimg.com/vi/nXfVa2rXNhM/hqdefault.jpg",
+          "publishedAt": "2026-10-13T01:36:36Z"
+        },
+        {
           "id": "f9JMtkq5ssU",
           "title": "【sobosuba】ゆったりスコア耐久！ #縦型配信 #shorts #sobosuba",
           "thumbnail": "https://i.ytimg.com/vi/f9JMtkq5ssU/hqdefault_live.jpg",
           "publishedAt": "2026-10-12T13:16:21Z"
-        },
-        {
-          "id": "nXfVa2rXNhM",
-          "title": "【sobosuba】ゆったりスコア耐久！ #縦型配信 #shorts #sobosuba",
-          "thumbnail": "https://i.ytimg.com/vi/nXfVa2rXNhM/hqdefault_live.jpg",
-          "publishedAt": "2026-10-12T13:16:15Z"
         }
       ],
       "live": false,
