@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-13T22:52:31.788042+00:00",
+  "updatedAt": "2026-10-14T05:01:13.236655+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -169,6 +169,12 @@
       "avatar": "https://yt3.ggpht.com/WdS4Wl7DgOVmZ4lpA3dArA0d3w8fr-XPHvD-QUlt0eUvToTNqNDT18UocQHQOdX9xBDXNDnzNw=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "mWNDECjt1Y4",
+          "title": "得体の知れないマジシャン【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
+          "thumbnail": "https://i.ytimg.com/vi/mWNDECjt1Y4/hqdefault.jpg",
+          "publishedAt": "2026-10-14T03:00:25Z"
+        },
+        {
           "id": "h-pWjXO60iY",
           "title": "【雑談/朝活】こんにちはを言いたい～！ROM勢さんも大歓迎✨️【 三毛猫わらび / vtuber 】【三毛猫わらび🐈️🥦】【個人勢VTuber】",
           "thumbnail": "https://i.ytimg.com/vi/h-pWjXO60iY/hqdefault.jpg",
@@ -209,15 +215,15 @@
           "title": "食べ放題は時間内に食べきればいい【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
           "thumbnail": "https://i.ytimg.com/vi/c5rbCW5TtK0/hqdefault.jpg",
           "publishedAt": "2026-09-18T03:00:21Z"
-        },
-        {
-          "id": "UD8XsgKttH8",
-          "title": "【雑談】初見さん歓迎！　雑談配信が好きな人が集まる個人Vtuber　ライブ配信中　雑談枠【三毛猫わらび🐈️🥦】【個人vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/UD8XsgKttH8/hqdefault.jpg",
-          "publishedAt": "2026-09-10T01:49:42Z"
         }
       ],
       "shorts": [
+        {
+          "id": "mWNDECjt1Y4",
+          "title": "得体の知れないマジシャン【三毛猫わらび】#vtuber  #shorts #コント #バズれ",
+          "thumbnail": "https://i.ytimg.com/vi/mWNDECjt1Y4/hqdefault.jpg",
+          "publishedAt": "2026-10-14T03:00:25Z"
+        },
         {
           "id": "jQ0FXysY6MY",
           "title": "ヘンゼルとグレーテルのやり取りが面白すぎ【三毛猫わらび】#vtuber  #shorts #コント #バズれ #ギャグマンガ日和",
