@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T16:44:58.774326+00:00",
+  "updatedAt": "2026-10-16T21:18:55.164551+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -11,8 +11,8 @@
         {
           "id": "lvtiYTdwoyU",
           "title": "【 #キングダムハーツ2  】#６ いつも通り思い出すところからね! ※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/lvtiYTdwoyU/hqdefault_live.jpg",
-          "publishedAt": "2026-10-16T12:30:25Z"
+          "thumbnail": "https://i.ytimg.com/vi/lvtiYTdwoyU/hqdefault.jpg",
+          "publishedAt": "2026-10-16T17:01:47Z"
         },
         {
           "id": "hm1WR4j6bXQ",
@@ -58,15 +58,8 @@
         }
       ],
       "shorts": [],
-      "live": true,
-      "liveBroadcast": {
-        "id": "lvtiYTdwoyU",
-        "title": "【 #キングダムハーツ2  】#６ いつも通り思い出すところからね! ※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
-        "thumbnail": "https://i.ytimg.com/vi/lvtiYTdwoyU/hqdefault_live.jpg",
-        "scheduledStartTime": "2026-10-16T12:30:00Z",
-        "actualStartTime": "2026-10-16T12:30:25Z",
-        "concurrentViewers": "15"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": [
         {
           "id": "fLpULN_15X4",
