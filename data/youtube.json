@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-10-18T11:18:16.806555+00:00",
+  "updatedAt": "2026-10-18T15:56:51.531975+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "961人",
+      "subs": "963人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
           "id": "q0JipRROtBU",
           "title": "【 #キングダムハーツ2  】#ラスト  最後までいくぞー！！※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/q0JipRROtBU/hqdefault_live.jpg",
-          "publishedAt": "2026-10-18T08:30:24Z"
+          "thumbnail": "https://i.ytimg.com/vi/q0JipRROtBU/hqdefault.jpg",
+          "publishedAt": "2026-10-18T14:16:54Z"
         },
         {
           "id": "g9NmVZG_Eu4",
@@ -58,15 +58,8 @@
         }
       ],
       "shorts": [],
-      "live": true,
-      "liveBroadcast": {
-        "id": "q0JipRROtBU",
-        "title": "【 #キングダムハーツ2  】#ラスト  最後までいくぞー！！※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
-        "thumbnail": "https://i.ytimg.com/vi/q0JipRROtBU/hqdefault_live.jpg",
-        "scheduledStartTime": "2026-10-18T08:30:00Z",
-        "actualStartTime": "2026-10-18T08:30:24Z",
-        "concurrentViewers": "22"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": [
         {
           "id": "fLpULN_15X4",
@@ -94,22 +87,28 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "7EC7Hvx-kHU",
+          "title": "【縦型】集団失踪した子供たちを探すホラゲー【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/7EC7Hvx-kHU/hqdefault_live.jpg",
+          "publishedAt": "2026-10-18T12:31:21Z"
+        },
+        {
           "id": "poOwWtO-6vw",
           "title": "集団失踪した子供たちを探すホラゲー【行方不明】",
           "thumbnail": "https://i.ytimg.com/vi/poOwWtO-6vw/hqdefault_live.jpg",
-          "publishedAt": "2026-10-18T05:06:12Z"
+          "publishedAt": "2026-10-18T12:31:15Z"
+        },
+        {
+          "id": "Pq8U2zdMpkg",
+          "title": "【縦型】集団失踪した子供たちを探すホラゲー【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/Pq8U2zdMpkg/hqdefault_live.jpg",
+          "publishedAt": "2026-10-18T12:31:10Z"
         },
         {
           "id": "g0JAF80JrS4",
           "title": "【ビンゴ雑談】休日無限に寝ちゃう話【天城リクト/Vtuber】#雑談 #縦型配信  #男性vtuber",
           "thumbnail": "https://i.ytimg.com/vi/g0JAF80JrS4/hqdefault.jpg",
           "publishedAt": "2026-10-17T14:34:37Z"
-        },
-        {
-          "id": "lZArFEprsi8",
-          "title": "【縦型】集団失踪した子供たちを探すホラゲー【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/lZArFEprsi8/hqdefault_live.jpg",
-          "publishedAt": "2026-10-17T14:25:54Z"
         },
         {
           "id": "Kb4A1SyDZ9U",
@@ -134,12 +133,6 @@
           "title": "【縦型Live】お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
           "thumbnail": "https://i.ytimg.com/vi/fSxWYfaWYos/hqdefault.jpg",
           "publishedAt": "2026-10-11T14:13:43Z"
-        },
-        {
-          "id": "dqFtHjK5yFs",
-          "title": "お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
-          "thumbnail": "https://i.ytimg.com/vi/dqFtHjK5yFs/hqdefault.jpg",
-          "publishedAt": "2026-10-11T14:07:00Z"
         }
       ],
       "shorts": [
@@ -150,18 +143,16 @@
           "publishedAt": "2026-10-13T01:36:36Z"
         }
       ],
-      "live": false,
-      "liveBroadcast": null,
-      "upcoming": [
-        {
-          "id": "poOwWtO-6vw",
-          "title": "集団失踪した子供たちを探すホラゲー【行方不明】",
-          "thumbnail": "https://i.ytimg.com/vi/poOwWtO-6vw/hqdefault_live.jpg",
-          "scheduledStartTime": "2026-10-18T11:30:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        }
-      ]
+      "live": true,
+      "liveBroadcast": {
+        "id": "Pq8U2zdMpkg",
+        "title": "【縦型】集団失踪した子供たちを探すホラゲー【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
+        "thumbnail": "https://i.ytimg.com/vi/Pq8U2zdMpkg/hqdefault_live.jpg",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-18T11:33:49Z",
+        "concurrentViewers": null
+      },
+      "upcoming": []
     },
     {
       "name": "三毛猫わらび🐈🥦",
