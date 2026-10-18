@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-10-18T04:42:48.852542+00:00",
+  "updatedAt": "2026-10-18T11:18:16.806555+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "956人",
+      "subs": "961人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "q0JipRROtBU",
+          "title": "【 #キングダムハーツ2  】#ラスト  最後までいくぞー！！※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/q0JipRROtBU/hqdefault_live.jpg",
+          "publishedAt": "2026-10-18T08:30:24Z"
+        },
         {
           "id": "g9NmVZG_Eu4",
           "title": "【 #キングダムハーツ2  】#7  終わりが近づいてきたか！？※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
@@ -49,17 +55,18 @@
           "title": "【 #雑談 】夜にゆっくり久しぶりにただただおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/7teD0Td9lgk/hqdefault.jpg",
           "publishedAt": "2026-10-06T15:42:00Z"
-        },
-        {
-          "id": "fLuLm25KHfU",
-          "title": "【 #コラボ 】#howtofish  自分 魚 捌けます！！！【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/fLuLm25KHfU/hqdefault.jpg",
-          "publishedAt": "2026-09-29T15:44:14Z"
         }
       ],
       "shorts": [],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "q0JipRROtBU",
+        "title": "【 #キングダムハーツ2  】#ラスト  最後までいくぞー！！※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
+        "thumbnail": "https://i.ytimg.com/vi/q0JipRROtBU/hqdefault_live.jpg",
+        "scheduledStartTime": "2026-10-18T08:30:00Z",
+        "actualStartTime": "2026-10-18T08:30:24Z",
+        "concurrentViewers": "22"
+      },
       "upcoming": [
         {
           "id": "fLpULN_15X4",
@@ -87,6 +94,12 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "poOwWtO-6vw",
+          "title": "集団失踪した子供たちを探すホラゲー【行方不明】",
+          "thumbnail": "https://i.ytimg.com/vi/poOwWtO-6vw/hqdefault_live.jpg",
+          "publishedAt": "2026-10-18T05:06:12Z"
+        },
+        {
           "id": "g0JAF80JrS4",
           "title": "【ビンゴ雑談】休日無限に寝ちゃう話【天城リクト/Vtuber】#雑談 #縦型配信  #男性vtuber",
           "thumbnail": "https://i.ytimg.com/vi/g0JAF80JrS4/hqdefault.jpg",
@@ -94,7 +107,7 @@
         },
         {
           "id": "lZArFEprsi8",
-          "title": "【ビンゴ雑談】休日無限に寝ちゃう話【天城リクト/Vtuber】#雑談 #縦型配信  #男性vtuber",
+          "title": "【縦型】集団失踪した子供たちを探すホラゲー【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
           "thumbnail": "https://i.ytimg.com/vi/lZArFEprsi8/hqdefault_live.jpg",
           "publishedAt": "2026-10-17T14:25:54Z"
         },
@@ -127,12 +140,6 @@
           "title": "お酒片手に、ゆったり世界を散歩する⑤【ゼルダの伝説TotK】",
           "thumbnail": "https://i.ytimg.com/vi/dqFtHjK5yFs/hqdefault.jpg",
           "publishedAt": "2026-10-11T14:07:00Z"
-        },
-        {
-          "id": "qbmi4l5666A",
-          "title": "【ビンゴ雑談】今週どうだった？皆の話も聞かせて！【天城リクト/Vtuber】",
-          "thumbnail": "https://i.ytimg.com/vi/qbmi4l5666A/hqdefault.jpg",
-          "publishedAt": "2026-10-10T15:01:42Z"
         }
       ],
       "shorts": [
@@ -145,7 +152,16 @@
       ],
       "live": false,
       "liveBroadcast": null,
-      "upcoming": []
+      "upcoming": [
+        {
+          "id": "poOwWtO-6vw",
+          "title": "集団失踪した子供たちを探すホラゲー【行方不明】",
+          "thumbnail": "https://i.ytimg.com/vi/poOwWtO-6vw/hqdefault_live.jpg",
+          "scheduledStartTime": "2026-10-18T11:30:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        }
+      ]
     },
     {
       "name": "三毛猫わらび🐈🥦",
