@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T20:52:12.919882+00:00",
+  "updatedAt": "2026-10-19T04:50:55.137452+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -87,22 +87,22 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
-          "id": "7EC7Hvx-kHU",
+          "id": "Pq8U2zdMpkg",
           "title": "【縦型】集団失踪した子供たちを探すホラゲー【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/7EC7Hvx-kHU/hqdefault_live.jpg",
-          "publishedAt": "2026-10-18T12:31:21Z"
+          "thumbnail": "https://i.ytimg.com/vi/Pq8U2zdMpkg/hqdefault.jpg",
+          "publishedAt": "2026-10-19T00:42:42Z"
         },
         {
           "id": "poOwWtO-6vw",
           "title": "集団失踪した子供たちを探すホラゲー【行方不明】",
-          "thumbnail": "https://i.ytimg.com/vi/poOwWtO-6vw/hqdefault_live.jpg",
-          "publishedAt": "2026-10-18T12:31:15Z"
+          "thumbnail": "https://i.ytimg.com/vi/poOwWtO-6vw/hqdefault.jpg",
+          "publishedAt": "2026-10-19T00:41:37Z"
         },
         {
-          "id": "Pq8U2zdMpkg",
+          "id": "7EC7Hvx-kHU",
           "title": "【縦型】集団失踪した子供たちを探すホラゲー【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/Pq8U2zdMpkg/hqdefault_live.jpg",
-          "publishedAt": "2026-10-18T12:31:10Z"
+          "thumbnail": "https://i.ytimg.com/vi/7EC7Hvx-kHU/hqdefault_live.jpg",
+          "publishedAt": "2026-10-18T12:31:21Z"
         },
         {
           "id": "g0JAF80JrS4",
@@ -143,15 +143,8 @@
           "publishedAt": "2026-10-13T01:36:36Z"
         }
       ],
-      "live": true,
-      "liveBroadcast": {
-        "id": "Pq8U2zdMpkg",
-        "title": "【縦型】集団失踪した子供たちを探すホラゲー【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/Pq8U2zdMpkg/hqdefault_live.jpg",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-18T11:33:49Z",
-        "concurrentViewers": null
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": []
     },
     {
