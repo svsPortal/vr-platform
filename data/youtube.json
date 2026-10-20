@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T11:47:52.468382+00:00",
+  "updatedAt": "2026-10-20T17:16:38.052658+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -58,15 +58,8 @@
         }
       ],
       "shorts": [],
-      "live": true,
-      "liveBroadcast": {
-        "id": "2b-QAnHBbsA",
-        "title": "【 #歌枠 】たまには夕方に・・・【 #karaoke  #雪明みてん #新人Vtuber 】",
-        "thumbnail": "https://i.ytimg.com/vi/2b-QAnHBbsA/hqdefault_live.jpg",
-        "scheduledStartTime": "2026-10-20T08:30:00Z",
-        "actualStartTime": "2026-10-20T08:30:55Z",
-        "concurrentViewers": null
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": [
         {
           "id": "fLpULN_15X4",
