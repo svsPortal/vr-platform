@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-10-20T04:59:10.634933+00:00",
+  "updatedAt": "2026-10-20T11:47:52.468382+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "961人",
+      "subs": "965人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "2b-QAnHBbsA",
+          "title": "【 #歌枠 】たまには夕方に・・・【 #karaoke  #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/2b-QAnHBbsA/hqdefault_live.jpg",
+          "publishedAt": "2026-10-20T10:10:22Z"
+        },
         {
           "id": "q0JipRROtBU",
           "title": "【 #キングダムハーツ2  】#ラスト  最後までいくぞー！！※ネタバレ有り【KINGDOM HEARTS -HD 1.5+2.5 ReMIX-】【 #雪明みてん #新人Vtuber 】",
@@ -49,17 +55,18 @@
           "title": "【】【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/kW-5XrVYkYk/hqdefault_live.jpg",
           "publishedAt": "2026-10-06T15:45:47Z"
-        },
-        {
-          "id": "7teD0Td9lgk",
-          "title": "【 #雑談 】夜にゆっくり久しぶりにただただおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/7teD0Td9lgk/hqdefault.jpg",
-          "publishedAt": "2026-10-06T15:42:00Z"
         }
       ],
       "shorts": [],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "2b-QAnHBbsA",
+        "title": "【 #歌枠 】たまには夕方に・・・【 #karaoke  #雪明みてん #新人Vtuber 】",
+        "thumbnail": "https://i.ytimg.com/vi/2b-QAnHBbsA/hqdefault_live.jpg",
+        "scheduledStartTime": "2026-10-20T08:30:00Z",
+        "actualStartTime": "2026-10-20T08:30:55Z",
+        "concurrentViewers": null
+      },
       "upcoming": [
         {
           "id": "fLpULN_15X4",
