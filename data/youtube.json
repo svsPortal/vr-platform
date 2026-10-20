@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-19T22:26:29.533998+00:00",
+  "updatedAt": "2026-10-20T04:59:10.634933+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -87,16 +87,16 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
-          "id": "rKyMRRfAMto",
-          "title": "集団失踪した子供たちを探すホラゲー②【行方不明】",
-          "thumbnail": "https://i.ytimg.com/vi/rKyMRRfAMto/hqdefault_live.jpg",
-          "publishedAt": "2026-10-19T13:23:58Z"
-        },
-        {
           "id": "7EC7Hvx-kHU",
           "title": "【縦型】集団失踪した子供たちを探すホラゲー②【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/7EC7Hvx-kHU/hqdefault_live.jpg",
-          "publishedAt": "2026-10-19T13:23:07Z"
+          "thumbnail": "https://i.ytimg.com/vi/7EC7Hvx-kHU/hqdefault.jpg",
+          "publishedAt": "2026-10-20T01:57:50Z"
+        },
+        {
+          "id": "rKyMRRfAMto",
+          "title": "集団失踪した子供たちを探すホラゲー②【行方不明】",
+          "thumbnail": "https://i.ytimg.com/vi/rKyMRRfAMto/hqdefault.jpg",
+          "publishedAt": "2026-10-20T01:43:50Z"
         },
         {
           "id": "Pq8U2zdMpkg",
@@ -143,15 +143,8 @@
           "publishedAt": "2026-10-13T01:36:36Z"
         }
       ],
-      "live": true,
-      "liveBroadcast": {
-        "id": "7EC7Hvx-kHU",
-        "title": "【縦型】集団失踪した子供たちを探すホラゲー②【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
-        "thumbnail": "https://i.ytimg.com/vi/7EC7Hvx-kHU/hqdefault_live.jpg",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-19T12:02:41Z",
-        "concurrentViewers": null
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": []
     },
     {
