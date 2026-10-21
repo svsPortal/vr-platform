@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T04:58:07.692888+00:00",
+  "updatedAt": "2026-10-21T11:59:36.596841+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -87,6 +87,12 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "SgzS5ODQhwg",
+          "title": "寝る前にちょっと話そう/健康診断で医師面談になった話 #雑談 #男性vtuber #",
+          "thumbnail": "https://i.ytimg.com/vi/SgzS5ODQhwg/hqdefault_live.jpg",
+          "publishedAt": "2026-10-21T10:10:22Z"
+        },
+        {
           "id": "7EC7Hvx-kHU",
           "title": "【縦型】集団失踪した子供たちを探すホラゲー②【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
           "thumbnail": "https://i.ytimg.com/vi/7EC7Hvx-kHU/hqdefault.jpg",
@@ -127,22 +133,9 @@
           "title": "【雑談】寝る前、30分だけ話そう【天城リクト/Vtuber】#雑談 #縦型配信  #男性vtuber",
           "thumbnail": "https://i.ytimg.com/vi/f9JMtkq5ssU/hqdefault.jpg",
           "publishedAt": "2026-10-16T01:11:21Z"
-        },
-        {
-          "id": "nXfVa2rXNhM",
-          "title": "【sobosuba】ゆったりスコア耐久！ #縦型配信 #shorts #sobosuba",
-          "thumbnail": "https://i.ytimg.com/vi/nXfVa2rXNhM/hqdefault.jpg",
-          "publishedAt": "2026-10-13T01:36:36Z"
         }
       ],
-      "shorts": [
-        {
-          "id": "nXfVa2rXNhM",
-          "title": "【sobosuba】ゆったりスコア耐久！ #縦型配信 #shorts #sobosuba",
-          "thumbnail": "https://i.ytimg.com/vi/nXfVa2rXNhM/hqdefault.jpg",
-          "publishedAt": "2026-10-13T01:36:36Z"
-        }
-      ],
+      "shorts": [],
       "live": false,
       "liveBroadcast": null,
       "upcoming": []
