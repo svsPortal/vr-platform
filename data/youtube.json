@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-21T11:59:36.596841+00:00",
+  "updatedAt": "2026-10-21T17:19:27.845756+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -87,10 +87,16 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "3NBceMlfuKY",
+          "title": "寝る前にちょっと話そう/健康診断で医師面談になった話 #雑談 #男性vtuber #",
+          "thumbnail": "https://i.ytimg.com/vi/3NBceMlfuKY/hqdefault_live.jpg",
+          "publishedAt": "2026-10-21T13:30:31Z"
+        },
+        {
           "id": "SgzS5ODQhwg",
           "title": "寝る前にちょっと話そう/健康診断で医師面談になった話 #雑談 #男性vtuber #",
           "thumbnail": "https://i.ytimg.com/vi/SgzS5ODQhwg/hqdefault_live.jpg",
-          "publishedAt": "2026-10-21T10:10:22Z"
+          "publishedAt": "2026-10-21T13:30:22Z"
         },
         {
           "id": "7EC7Hvx-kHU",
@@ -127,12 +133,6 @@
           "title": "帰りの新幹線で2つミスを犯した話 #vtuber #雑談 #男性vtuber",
           "thumbnail": "https://i.ytimg.com/vi/Kb4A1SyDZ9U/hqdefault.jpg",
           "publishedAt": "2026-10-16T08:00:38Z"
-        },
-        {
-          "id": "f9JMtkq5ssU",
-          "title": "【雑談】寝る前、30分だけ話そう【天城リクト/Vtuber】#雑談 #縦型配信  #男性vtuber",
-          "thumbnail": "https://i.ytimg.com/vi/f9JMtkq5ssU/hqdefault.jpg",
-          "publishedAt": "2026-10-16T01:11:21Z"
         }
       ],
       "shorts": [],
