@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-10-25T20:56:27.808587+00:00",
+  "updatedAt": "2026-10-26T04:56:36.939815+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "968人",
+      "subs": "970人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "VrNZFycCBoY",
+          "title": "言われて嬉しい言葉 #vtuber #新人vtuber #shorts",
+          "thumbnail": "https://i.ytimg.com/vi/VrNZFycCBoY/hqdefault.jpg",
+          "publishedAt": "2026-10-26T03:01:57Z"
+        },
         {
           "id": "UzXiIbsMmeQ",
           "title": "推してんの良いところ #新人VTuber #VTuber #shorts",
@@ -49,15 +55,15 @@
           "title": "【 #雑談】#V描 参加報告とかイベント振り返りとかおしゃべりしよー【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/UMwiogMPZKI/hqdefault.jpg",
           "publishedAt": "2026-10-12T15:11:16Z"
-        },
-        {
-          "id": "6sGAsXsQ-OA",
-          "title": "【 #カブトムシの森 】めちゃめちゃ虫嫌いなのにひょんなことからリスナーさんに言われてやることになりましたなので最後まで付き合ってください【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/6sGAsXsQ-OA/hqdefault.jpg",
-          "publishedAt": "2026-10-09T02:07:17Z"
         }
       ],
       "shorts": [
+        {
+          "id": "VrNZFycCBoY",
+          "title": "言われて嬉しい言葉 #vtuber #新人vtuber #shorts",
+          "thumbnail": "https://i.ytimg.com/vi/VrNZFycCBoY/hqdefault.jpg",
+          "publishedAt": "2026-10-26T03:01:57Z"
+        },
         {
           "id": "UzXiIbsMmeQ",
           "title": "推してんの良いところ #新人VTuber #VTuber #shorts",
