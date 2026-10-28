@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T13:08:28.284318+00:00",
+  "updatedAt": "2026-10-28T22:40:32.100313+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -106,10 +106,16 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "1ADfKpLpvBk",
+          "title": "水曜夜のゆったり雑談 | 10月振り返ろう！ #雑談 #男性vtuber #縦型配信",
+          "thumbnail": "https://i.ytimg.com/vi/1ADfKpLpvBk/hqdefault.jpg?v=6ae1f68f",
+          "publishedAt": "2026-10-28T13:20:15Z"
+        },
+        {
           "id": "e-3WQQ4gyOA",
           "title": "水曜夜のゆったり雑談 | 10月振り返ろう！ #雑談 #男性vtuber #縦型配信",
           "thumbnail": "https://i.ytimg.com/vi/e-3WQQ4gyOA/hqdefault.jpg?v=6ae1b5af",
-          "publishedAt": "2026-10-28T12:05:00Z"
+          "publishedAt": "2026-10-28T13:20:09Z"
         },
         {
           "id": "3NBceMlfuKY",
@@ -146,12 +152,6 @@
           "title": "【縦型】集団失踪した子供たちを探すホラゲー【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
           "thumbnail": "https://i.ytimg.com/vi/Pq8U2zdMpkg/hqdefault.jpg",
           "publishedAt": "2026-10-19T00:42:42Z"
-        },
-        {
-          "id": "poOwWtO-6vw",
-          "title": "集団失踪した子供たちを探すホラゲー【行方不明】",
-          "thumbnail": "https://i.ytimg.com/vi/poOwWtO-6vw/hqdefault.jpg",
-          "publishedAt": "2026-10-19T00:41:37Z"
         }
       ],
       "shorts": [
@@ -162,15 +162,8 @@
           "publishedAt": "2026-10-23T08:00:13Z"
         }
       ],
-      "live": true,
-      "liveBroadcast": {
-        "id": "e-3WQQ4gyOA",
-        "title": "水曜夜のゆったり雑談 | 10月振り返ろう！ #雑談 #男性vtuber #縦型配信",
-        "thumbnail": "https://i.ytimg.com/vi/e-3WQQ4gyOA/hqdefault.jpg?v=6ae1b5af",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-28T12:05:00Z",
-        "concurrentViewers": "12"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": []
     },
     {
