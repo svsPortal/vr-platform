@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-10-28T05:52:35.777296+00:00",
+  "updatedAt": "2026-10-28T13:08:28.284318+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "973人",
+      "subs": "974人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -106,16 +106,16 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "e-3WQQ4gyOA",
+          "title": "水曜夜のゆったり雑談 | 10月振り返ろう！ #雑談 #男性vtuber #縦型配信",
+          "thumbnail": "https://i.ytimg.com/vi/e-3WQQ4gyOA/hqdefault.jpg?v=6ae1b5af",
+          "publishedAt": "2026-10-28T12:05:00Z"
+        },
+        {
           "id": "3NBceMlfuKY",
           "title": "【BINGO】土曜夜のゆったり雑談 | ふるさと納税決めよう #雑談 #男性vtuber #",
           "thumbnail": "https://i.ytimg.com/vi/3NBceMlfuKY/hqdefault.jpg",
           "publishedAt": "2026-10-25T02:01:24Z"
-        },
-        {
-          "id": "e-3WQQ4gyOA",
-          "title": "【BINGO】土曜夜のゆったり雑談 | ふるさと納税決めよう #雑談 #男性vtuber #",
-          "thumbnail": "https://i.ytimg.com/vi/e-3WQQ4gyOA/hqdefault.jpg?v=6adcbc3f",
-          "publishedAt": "2026-10-24T14:10:07Z"
         },
         {
           "id": "TmFSu0T6xP4",
@@ -162,8 +162,15 @@
           "publishedAt": "2026-10-23T08:00:13Z"
         }
       ],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "e-3WQQ4gyOA",
+        "title": "水曜夜のゆったり雑談 | 10月振り返ろう！ #雑談 #男性vtuber #縦型配信",
+        "thumbnail": "https://i.ytimg.com/vi/e-3WQQ4gyOA/hqdefault.jpg?v=6ae1b5af",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-28T12:05:00Z",
+        "concurrentViewers": "12"
+      },
       "upcoming": []
     },
     {
