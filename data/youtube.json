@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T12:43:42.979474+00:00",
+  "updatedAt": "2026-10-31T21:41:46.009694+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -79,24 +79,7 @@
       ],
       "live": false,
       "liveBroadcast": null,
-      "upcoming": [
-        {
-          "id": "fLpULN_15X4",
-          "title": "《タイアップ告知：2026.10.31 23:59まで》HATAラムネコラボ【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/fLpULN_15X4/hqdefault.jpg?v=6a8fdcc8",
-          "scheduledStartTime": "2026-10-31T14:59:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        },
-        {
-          "id": "wmi7hsnU8JE",
-          "title": "《グッズ告知《2026.10.31まで》ユメイロストリーム！【 #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/wmi7hsnU8JE/hqdefault.jpg?v=6a6856f2",
-          "scheduledStartTime": "2026-10-31T14:59:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        }
-      ]
+      "upcoming": []
     },
     {
       "name": "天城リクト | Amagi Rikuto",
@@ -108,8 +91,14 @@
         {
           "id": "vOeBdrhcwCM",
           "title": "【雑談】全BINGO達成耐久！！ #雑談 #男性vtuber #縦型配信",
-          "thumbnail": "https://i.ytimg.com/vi/vOeBdrhcwCM/hqdefault.jpg?v=6ae5a7b3",
-          "publishedAt": "2026-10-31T12:01:43Z"
+          "thumbnail": "https://i.ytimg.com/vi/vOeBdrhcwCM/hqdefault.jpg",
+          "publishedAt": "2026-10-31T15:41:23Z"
+        },
+        {
+          "id": "AfjI6S2cn28",
+          "title": "【雑談】全BINGO達成耐久！！ #雑談 #男性vtuber #縦型配信",
+          "thumbnail": "https://i.ytimg.com/vi/AfjI6S2cn28/hqdefault.jpg?v=6ae60310",
+          "publishedAt": "2026-10-31T15:02:40Z"
         },
         {
           "id": "aEDjX_yZpzo",
@@ -146,12 +135,6 @@
           "title": "【縦型】集団失踪した子供たちを探すホラゲー②【行方不明】#ホラゲー #ゲーム実況 #男性vtuber",
           "thumbnail": "https://i.ytimg.com/vi/7EC7Hvx-kHU/hqdefault.jpg",
           "publishedAt": "2026-10-20T01:57:50Z"
-        },
-        {
-          "id": "rKyMRRfAMto",
-          "title": "集団失踪した子供たちを探すホラゲー②【行方不明】",
-          "thumbnail": "https://i.ytimg.com/vi/rKyMRRfAMto/hqdefault.jpg",
-          "publishedAt": "2026-10-20T01:43:50Z"
         }
       ],
       "shorts": [
@@ -168,15 +151,8 @@
           "publishedAt": "2026-10-23T08:00:13Z"
         }
       ],
-      "live": true,
-      "liveBroadcast": {
-        "id": "vOeBdrhcwCM",
-        "title": "【雑談】全BINGO達成耐久！！ #雑談 #男性vtuber #縦型配信",
-        "thumbnail": "https://i.ytimg.com/vi/vOeBdrhcwCM/hqdefault.jpg?v=6ae5a7b3",
-        "scheduledStartTime": null,
-        "actualStartTime": "2026-10-31T12:01:43Z",
-        "concurrentViewers": "9"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": []
     },
     {
