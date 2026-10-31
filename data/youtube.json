@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-31T05:54:24.288343+00:00",
+  "updatedAt": "2026-10-31T12:43:42.979474+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
@@ -106,6 +106,12 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "vOeBdrhcwCM",
+          "title": "【雑談】全BINGO達成耐久！！ #雑談 #男性vtuber #縦型配信",
+          "thumbnail": "https://i.ytimg.com/vi/vOeBdrhcwCM/hqdefault.jpg?v=6ae5a7b3",
+          "publishedAt": "2026-10-31T12:01:43Z"
+        },
+        {
           "id": "aEDjX_yZpzo",
           "title": "自分で設定した効果音にビビる配信者ww  #男性vtuber #雑談 #shorts",
           "thumbnail": "https://i.ytimg.com/vi/aEDjX_yZpzo/hqdefault.jpg",
@@ -116,12 +122,6 @@
           "title": "水曜夜のゆったり雑談 | 10月振り返ろう！ #雑談 #男性vtuber #縦型配信",
           "thumbnail": "https://i.ytimg.com/vi/e-3WQQ4gyOA/hqdefault.jpg",
           "publishedAt": "2026-10-29T01:39:07Z"
-        },
-        {
-          "id": "1ADfKpLpvBk",
-          "title": "水曜夜のゆったり雑談 | 10月振り返ろう！ #雑談 #男性vtuber #縦型配信",
-          "thumbnail": "https://i.ytimg.com/vi/1ADfKpLpvBk/hqdefault.jpg?v=6ae1f68f",
-          "publishedAt": "2026-10-28T13:20:15Z"
         },
         {
           "id": "3NBceMlfuKY",
@@ -168,8 +168,15 @@
           "publishedAt": "2026-10-23T08:00:13Z"
         }
       ],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "vOeBdrhcwCM",
+        "title": "【雑談】全BINGO達成耐久！！ #雑談 #男性vtuber #縦型配信",
+        "thumbnail": "https://i.ytimg.com/vi/vOeBdrhcwCM/hqdefault.jpg?v=6ae5a7b3",
+        "scheduledStartTime": null,
+        "actualStartTime": "2026-10-31T12:01:43Z",
+        "concurrentViewers": "9"
+      },
       "upcoming": []
     },
     {
