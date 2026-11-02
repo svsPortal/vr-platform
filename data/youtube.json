@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-11-01T22:09:07.876139+00:00",
+  "updatedAt": "2026-11-02T06:20:56.102091+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "974人",
+      "subs": "978人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "jxmcPIB6u2M",
+          "title": "【 #歌枠 】歌い終わった時に同接が１桁になったら終わる配信【 #karaoke  #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/jxmcPIB6u2M/hqdefault.jpg?v=6ae715d0",
+          "publishedAt": "2026-11-02T03:01:40Z"
+        },
         {
           "id": "WHZt1fLExOU",
           "title": "《コラボグッズ告知》AKIBA NUI COLLECTION【 #雪明みてん #新人Vtuber 】",
@@ -19,12 +25,6 @@
           "title": "【 #コラボ 】#肝試しオンライン　みんなでホラゲうれしいねぇ・・・ #プロジェクトアルヴィジア 【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/drIhgFzILvI/hqdefault.jpg?v=6ae719e3",
           "publishedAt": "2026-11-01T10:52:16Z"
-        },
-        {
-          "id": "jxmcPIB6u2M",
-          "title": "【 #歌枠 】お昼のお供にいかがですか・・・？【 #karaoke  #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/jxmcPIB6u2M/hqdefault.jpg?v=6ae715d0",
-          "publishedAt": "2026-11-01T10:34:53Z"
         },
         {
           "id": "t59uBx-KE9A",
@@ -77,17 +77,16 @@
           "publishedAt": "2026-10-22T02:50:11Z"
         }
       ],
-      "live": false,
-      "liveBroadcast": null,
+      "live": true,
+      "liveBroadcast": {
+        "id": "jxmcPIB6u2M",
+        "title": "【 #歌枠 】歌い終わった時に同接が１桁になったら終わる配信【 #karaoke  #雪明みてん #新人Vtuber 】",
+        "thumbnail": "https://i.ytimg.com/vi/jxmcPIB6u2M/hqdefault.jpg?v=6ae715d0",
+        "scheduledStartTime": "2026-11-02T02:50:00Z",
+        "actualStartTime": "2026-11-02T03:01:40Z",
+        "concurrentViewers": "18"
+      },
       "upcoming": [
-        {
-          "id": "jxmcPIB6u2M",
-          "title": "【 #歌枠 】お昼のお供にいかがですか・・・？【 #karaoke  #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/jxmcPIB6u2M/hqdefault.jpg?v=6ae715d0",
-          "scheduledStartTime": "2026-11-02T02:50:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        },
         {
           "id": "drIhgFzILvI",
           "title": "【 #コラボ 】#肝試しオンライン　みんなでホラゲうれしいねぇ・・・ #プロジェクトアルヴィジア 【 #雪明みてん #新人Vtuber 】",
