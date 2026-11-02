@@ -1,18 +1,18 @@
 {
-  "updatedAt": "2026-11-02T06:20:56.102091+00:00",
+  "updatedAt": "2026-11-02T21:46:10.486719+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "978人",
+      "subs": "983人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
           "id": "jxmcPIB6u2M",
-          "title": "【 #歌枠 】歌い終わった時に同接が１桁になったら終わる配信【 #karaoke  #雪明みてん #新人Vtuber 】",
-          "thumbnail": "https://i.ytimg.com/vi/jxmcPIB6u2M/hqdefault.jpg?v=6ae715d0",
-          "publishedAt": "2026-11-02T03:01:40Z"
+          "title": "【 #歌枠 】33曲歌いました！【 #karaoke  #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/jxmcPIB6u2M/hqdefault.jpg",
+          "publishedAt": "2026-11-02T10:04:20Z"
         },
         {
           "id": "WHZt1fLExOU",
@@ -77,15 +77,8 @@
           "publishedAt": "2026-10-22T02:50:11Z"
         }
       ],
-      "live": true,
-      "liveBroadcast": {
-        "id": "jxmcPIB6u2M",
-        "title": "【 #歌枠 】歌い終わった時に同接が１桁になったら終わる配信【 #karaoke  #雪明みてん #新人Vtuber 】",
-        "thumbnail": "https://i.ytimg.com/vi/jxmcPIB6u2M/hqdefault.jpg?v=6ae715d0",
-        "scheduledStartTime": "2026-11-02T02:50:00Z",
-        "actualStartTime": "2026-11-02T03:01:40Z",
-        "concurrentViewers": "18"
-      },
+      "live": false,
+      "liveBroadcast": null,
       "upcoming": [
         {
           "id": "drIhgFzILvI",
