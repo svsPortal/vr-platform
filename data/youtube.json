@@ -1,11 +1,11 @@
 {
-  "updatedAt": "2026-11-06T06:57:08.706740+00:00",
+  "updatedAt": "2026-11-06T19:29:38.144325+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子Vtuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "992人",
+      "subs": "993人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -104,6 +104,12 @@
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "vBqoL6YR4Zk",
+          "title": "眼鏡は外せるのに、涙は拭けないVTuber #vtuber #雑談 #男性vtuber",
+          "thumbnail": "https://i.ytimg.com/vi/vBqoL6YR4Zk/hqdefault.jpg",
+          "publishedAt": "2026-11-06T08:00:17Z"
+        },
+        {
           "id": "L7K3F9JgzJY",
           "title": "天城リクトの性格が丸わかり！？②【Refind Self: 性格診断ゲーム】",
           "thumbnail": "https://i.ytimg.com/vi/L7K3F9JgzJY/hqdefault.jpg",
@@ -144,12 +150,6 @@
           "title": "【BINGO】土曜夜のゆったり雑談 | ふるさと納税決めよう #雑談 #男性vtuber #",
           "thumbnail": "https://i.ytimg.com/vi/3NBceMlfuKY/hqdefault.jpg",
           "publishedAt": "2026-10-25T02:01:24Z"
-        },
-        {
-          "id": "TmFSu0T6xP4",
-          "title": "ゲームより『2』の命が大事になった男 #sobosuba #男性vtuber #shorts",
-          "thumbnail": "https://i.ytimg.com/vi/TmFSu0T6xP4/hqdefault.jpg",
-          "publishedAt": "2026-10-23T08:00:13Z"
         }
       ],
       "shorts": [
@@ -158,12 +158,6 @@
           "title": "自分で設定した効果音にビビる配信者ww  #男性vtuber #雑談 #shorts",
           "thumbnail": "https://i.ytimg.com/vi/aEDjX_yZpzo/hqdefault.jpg",
           "publishedAt": "2026-10-30T08:00:23Z"
-        },
-        {
-          "id": "TmFSu0T6xP4",
-          "title": "ゲームより『2』の命が大事になった男 #sobosuba #男性vtuber #shorts",
-          "thumbnail": "https://i.ytimg.com/vi/TmFSu0T6xP4/hqdefault.jpg",
-          "publishedAt": "2026-10-23T08:00:13Z"
         }
       ],
       "live": false,
