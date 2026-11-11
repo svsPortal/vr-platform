@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T19:49:34.596711+00:00",
+  "updatedAt": "2026-11-11T06:39:37.352141+00:00",
   "mode": "review-only",
   "candidates": [
     {
@@ -29,20 +29,6 @@
       "status": "review"
     },
     {
-      "channelId": "UC-mwPmZYphh13tsV5gAXXdA",
-      "name": "玖雲ゆく@新人vtuber",
-      "description": "はじめまして\n自分を天界人だと思い込んでるニート\n新人個人勢VTuberの 玖雲ゆく（くぐも ゆく） です☁️⛓\n見つけてくれてありがとう！\n最初は少し丁寧だけど、仲良くなったら友達みたいに気軽に話せる、そんな配信を目指してます！\n🎮 **活動内容**\n・ゲーム実況（Apex / VALORANT / LoL / モンハン / ポケモンなど）\n・雑談配信\n・ゲームの面白いシーンをまとめたShorts\n・たまに企画も！\n\n☁️ **配信について**\nFPSやLOLは主にTwitch！\nYouTubeではShortsや雑談、企画動画を中心に活動していく予定です。\n初見さんもコメント大歓迎！\n一緒に笑って、気軽に遊びに来られる場所にしていきたいです。\nよかったらチャンネル登録して、また遊びに来てね！\n\n🔗 **各種リンク**\nTwitch：https://www.twitch.tv/kgmyuku\nX（旧Twitter）：https://x.com/KGM_Yuku\n\n",
-      "subs": 8,
-      "avatar": "https://yt3.ggpht.com/9IHZwSPqzMmEc5byOo1BFmF0G8z9---5JWmugM28nOO2g1WRFqSk9UhFzbVpcyaYxOMxmtZb=s800-c-k-c0x00ffffff-no-rj",
-      "youtube": "https://www.youtube.com/channel/UC-mwPmZYphh13tsV5gAXXdA",
-      "signals": [
-        "vtuber",
-        "個人勢",
-        "新人v"
-      ],
-      "status": "review"
-    },
-    {
       "channelId": "UCmf4ScC2aqkLO01TjcpQz1g",
       "name": "ともみ@個人勢Vtuber",
       "description": "はじめまして☆個人勢Vtuberとして活動しております「ともみ」と申します！\n競馬、雑談、ゲーム実況などの動画をあげていく予定です☆よろしくお願いします☆\n\nTwitter：@tomomin24\n",
@@ -52,6 +38,20 @@
       "signals": [
         "vtuber",
         "個人勢"
+      ],
+      "status": "review"
+    },
+    {
+      "channelId": "UC-mwPmZYphh13tsV5gAXXdA",
+      "name": "玖雲ゆく@新人vtuber",
+      "description": "はじめまして\n自分を天界人だと思い込んでるニート\n新人個人勢VTuberの 玖雲ゆく（くぐも ゆく） です☁️⛓\n見つけてくれてありがとう！\n最初は少し丁寧だけど、仲良くなったら友達みたいに気軽に話せる、そんな配信を目指してます！\n🎮 **活動内容**\n・ゲーム実況（Apex / VALORANT / LoL / モンハン / ポケモンなど）\n・雑談配信\n・ゲームの面白いシーンをまとめたShorts\n・たまに企画も！\n\n☁️ **配信について**\nFPSやLOLは主にTwitch！\nYouTubeではShortsや雑談、企画動画を中心に活動していく予定です。\n初見さんもコメント大歓迎！\n一緒に笑って、気軽に遊びに来られる場所にしていきたいです。\nよかったらチャンネル登録して、また遊びに来てね！\n\n🔗 **各種リンク**\nTwitch：https://www.twitch.tv/kgmyuku\nX（旧Twitter）：https://x.com/KGM_Yuku\n\n",
+      "subs": 9,
+      "avatar": "https://yt3.ggpht.com/9IHZwSPqzMmEc5byOo1BFmF0G8z9---5JWmugM28nOO2g1WRFqSk9UhFzbVpcyaYxOMxmtZb=s800-c-k-c0x00ffffff-no-rj",
+      "youtube": "https://www.youtube.com/channel/UC-mwPmZYphh13tsV5gAXXdA",
+      "signals": [
+        "vtuber",
+        "個人勢",
+        "新人v"
       ],
       "status": "review"
     },
