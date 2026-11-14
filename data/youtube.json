@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T06:38:47.459938+00:00",
+  "updatedAt": "2026-11-14T18:13:49.373452+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子VTuber",
@@ -97,6 +97,14 @@
           "title": "《コラボグッズ告知》AKIBA NUI COLLECTION【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/WHZt1fLExOU/hqdefault.jpg?v=6ae73701",
           "scheduledStartTime": "2026-11-29T14:45:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        },
+        {
+          "id": "fLpULN_15X4",
+          "title": "《CDリリース告知：2026.12.15リリース》ログインチュウ♡【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/fLpULN_15X4/hqdefault.jpg?v=6ae734fc",
+          "scheduledStartTime": "2026-12-14T14:59:00Z",
           "actualStartTime": null,
           "concurrentViewers": null
         }
