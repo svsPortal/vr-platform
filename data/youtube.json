@@ -1,13 +1,19 @@
 {
-  "updatedAt": "2026-11-16T22:15:41.808891+00:00",
+  "updatedAt": "2026-11-17T08:03:33.713395+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子VTuber",
       "channelId": "UCPMbyTlim27DvJtsa3kJHTQ",
       "youtube": "https://www.youtube.com/@Yume_miten",
-      "subs": "1,000人",
+      "subs": "1,010人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "TG67bcd3i2U",
+          "title": "かわいい #残酷な天使のテーゼ #vtuber #新人vtuber #shorts",
+          "thumbnail": "https://i.ytimg.com/vi/TG67bcd3i2U/hqdefault.jpg",
+          "publishedAt": "2026-11-17T02:50:22Z"
+        },
         {
           "id": "-eGtn1jb9a4",
           "title": "お年玉 #vtuber #新人vtuber #shorts #切り抜き",
@@ -49,15 +55,15 @@
           "title": "言われて嬉しい言葉 #vtuber #新人vtuber #shorts",
           "thumbnail": "https://i.ytimg.com/vi/VrNZFycCBoY/hqdefault.jpg",
           "publishedAt": "2026-10-26T03:01:57Z"
-        },
-        {
-          "id": "UzXiIbsMmeQ",
-          "title": "推してんの良いところ #新人VTuber #VTuber #shorts",
-          "thumbnail": "https://i.ytimg.com/vi/UzXiIbsMmeQ/hqdefault.jpg",
-          "publishedAt": "2026-10-22T02:50:11Z"
         }
       ],
       "shorts": [
+        {
+          "id": "TG67bcd3i2U",
+          "title": "かわいい #残酷な天使のテーゼ #vtuber #新人vtuber #shorts",
+          "thumbnail": "https://i.ytimg.com/vi/TG67bcd3i2U/hqdefault.jpg",
+          "publishedAt": "2026-11-17T02:50:22Z"
+        },
         {
           "id": "-eGtn1jb9a4",
           "title": "お年玉 #vtuber #新人vtuber #shorts #切り抜き",
@@ -81,12 +87,6 @@
           "title": "言われて嬉しい言葉 #vtuber #新人vtuber #shorts",
           "thumbnail": "https://i.ytimg.com/vi/VrNZFycCBoY/hqdefault.jpg",
           "publishedAt": "2026-10-26T03:01:57Z"
-        },
-        {
-          "id": "UzXiIbsMmeQ",
-          "title": "推してんの良いところ #新人VTuber #VTuber #shorts",
-          "thumbnail": "https://i.ytimg.com/vi/UzXiIbsMmeQ/hqdefault.jpg",
-          "publishedAt": "2026-10-22T02:50:11Z"
         }
       ],
       "live": false,
