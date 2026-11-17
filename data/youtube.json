@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T08:03:33.713395+00:00",
+  "updatedAt": "2026-11-17T21:01:38.371976+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子VTuber",
@@ -105,6 +105,14 @@
           "title": "《CDリリース告知：2026.12.15リリース》ログインチュウ♡【 #雪明みてん #新人Vtuber 】",
           "thumbnail": "https://i.ytimg.com/vi/fLpULN_15X4/hqdefault.jpg?v=6ae734fc",
           "scheduledStartTime": "2026-12-14T14:59:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        },
+        {
+          "id": "wmi7hsnU8JE",
+          "title": "《LIVE告知《2026.12.18》#プロジェクトアルヴィジア 2nd LIVE 池袋Harevutai【 #雪明みてん #新人Vtuber 】",
+          "thumbnail": "https://i.ytimg.com/vi/wmi7hsnU8JE/hqdefault.jpg?v=6ae733cb",
+          "scheduledStartTime": "2026-12-17T14:59:00Z",
           "actualStartTime": null,
           "concurrentViewers": null
         }
