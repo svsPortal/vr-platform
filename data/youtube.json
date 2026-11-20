@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T07:26:56.121521+00:00",
+  "updatedAt": "2026-11-20T20:29:04.591316+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子VTuber",
@@ -122,9 +122,15 @@
       "name": "天城リクト | Amagi Rikuto",
       "channelId": "UCSMbl2XhcCjL-x_0yrrUU3g",
       "youtube": "https://www.youtube.com/@Amagi_Rikuto",
-      "subs": "2,660人",
+      "subs": "2,670人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "tf6dDSoI5nU",
+          "title": "顔が〇〇したままクリアするVTuber【リズム天国】",
+          "thumbnail": "https://i.ytimg.com/vi/tf6dDSoI5nU/hqdefault.jpg",
+          "publishedAt": "2026-11-20T08:00:22Z"
+        },
         {
           "id": "x5hSfnItID4",
           "title": "今日、何もできなかったと思ってるあなたへ【男性VTuber】",
@@ -166,22 +172,9 @@
           "title": "【雑談】全BINGO達成耐久！！ #雑談 #男性vtuber #縦型配信",
           "thumbnail": "https://i.ytimg.com/vi/vOeBdrhcwCM/hqdefault.jpg",
           "publishedAt": "2026-10-31T15:41:23Z"
-        },
-        {
-          "id": "aEDjX_yZpzo",
-          "title": "自分で設定した効果音にビビる配信者ww  #男性vtuber #雑談 #shorts",
-          "thumbnail": "https://i.ytimg.com/vi/aEDjX_yZpzo/hqdefault.jpg",
-          "publishedAt": "2026-10-30T08:00:23Z"
         }
       ],
-      "shorts": [
-        {
-          "id": "aEDjX_yZpzo",
-          "title": "自分で設定した効果音にビビる配信者ww  #男性vtuber #雑談 #shorts",
-          "thumbnail": "https://i.ytimg.com/vi/aEDjX_yZpzo/hqdefault.jpg",
-          "publishedAt": "2026-10-30T08:00:23Z"
-        }
-      ],
+      "shorts": [],
       "live": false,
       "liveBroadcast": null,
       "upcoming": []
