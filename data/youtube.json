@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T23:59:43.117555+00:00",
+  "updatedAt": "2026-11-24T10:01:58.504041+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子VTuber",
@@ -8,6 +8,12 @@
       "subs": "1,010人",
       "avatar": "https://yt3.ggpht.com/yq04JxwFlEfiYRYcV-pv9ajvZO6qvwQzWHcSr5Mxmny0zfDqN5zr5veqm65Agy4r_NtBAxD-hA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
+        {
+          "id": "o37LB_g52wU",
+          "title": "【ANIMA】歌枠 切り抜き #vtuber #新人vtuber #shorts",
+          "thumbnail": "https://i.ytimg.com/vi/o37LB_g52wU/hqdefault.jpg",
+          "publishedAt": "2026-11-24T02:50:35Z"
+        },
         {
           "id": "TG67bcd3i2U",
           "title": "かわいい #残酷な天使のテーゼ #vtuber #新人vtuber #shorts",
@@ -49,15 +55,15 @@
           "title": "確定演出 既視感 #vtuber #新人vtuber #shorts",
           "thumbnail": "https://i.ytimg.com/vi/t59uBx-KE9A/hqdefault.jpg",
           "publishedAt": "2026-10-28T02:50:06Z"
-        },
-        {
-          "id": "VrNZFycCBoY",
-          "title": "言われて嬉しい言葉 #vtuber #新人vtuber #shorts",
-          "thumbnail": "https://i.ytimg.com/vi/VrNZFycCBoY/hqdefault.jpg",
-          "publishedAt": "2026-10-26T03:01:57Z"
         }
       ],
       "shorts": [
+        {
+          "id": "o37LB_g52wU",
+          "title": "【ANIMA】歌枠 切り抜き #vtuber #新人vtuber #shorts",
+          "thumbnail": "https://i.ytimg.com/vi/o37LB_g52wU/hqdefault.jpg",
+          "publishedAt": "2026-11-24T02:50:35Z"
+        },
         {
           "id": "TG67bcd3i2U",
           "title": "かわいい #残酷な天使のテーゼ #vtuber #新人vtuber #shorts",
@@ -81,12 +87,6 @@
           "title": "確定演出 既視感 #vtuber #新人vtuber #shorts",
           "thumbnail": "https://i.ytimg.com/vi/t59uBx-KE9A/hqdefault.jpg",
           "publishedAt": "2026-10-28T02:50:06Z"
-        },
-        {
-          "id": "VrNZFycCBoY",
-          "title": "言われて嬉しい言葉 #vtuber #新人vtuber #shorts",
-          "thumbnail": "https://i.ytimg.com/vi/VrNZFycCBoY/hqdefault.jpg",
-          "publishedAt": "2026-10-26T03:01:57Z"
         }
       ],
       "live": false,
@@ -122,7 +122,7 @@
       "name": "天城リクト | Amagi Rikuto",
       "channelId": "UCSMbl2XhcCjL-x_0yrrUU3g",
       "youtube": "https://www.youtube.com/@Amagi_Rikuto",
-      "subs": "2,670人",
+      "subs": "2,680人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
