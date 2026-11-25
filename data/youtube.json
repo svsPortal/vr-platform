@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-24T22:33:22.682861+00:00",
+  "updatedAt": "2026-11-25T08:46:24.859047+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子VTuber",
@@ -122,7 +122,7 @@
       "name": "天城リクト | Amagi Rikuto",
       "channelId": "UCSMbl2XhcCjL-x_0yrrUU3g",
       "youtube": "https://www.youtube.com/@Amagi_Rikuto",
-      "subs": "2,680人",
+      "subs": "2,670人",
       "avatar": "https://yt3.ggpht.com/-LgyglHnhZ_64Yo7NuJ3cS3Zd_XhGb2mYZK3K6q-D3ng-QrYKqOc9dsvsIGvHpAlbh3hI8tPtA=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
@@ -187,6 +187,12 @@
       "avatar": "https://yt3.ggpht.com/WdS4Wl7DgOVmZ4lpA3dArA0d3w8fr-XPHvD-QUlt0eUvToTNqNDT18UocQHQOdX9xBDXNDnzNw=s800-c-k-c0x00ffffff-no-rj",
       "videos": [
         {
+          "id": "wiO7AqQbOJ4",
+          "title": "【相棒25/ドラマ】同時視聴🖥️6話 「プラネタリウム」【vtuber】【三毛猫わらび🐈🥦】",
+          "thumbnail": "https://i.ytimg.com/vi/wiO7AqQbOJ4/hqdefault.jpg?v=6b069eae",
+          "publishedAt": "2026-11-25T08:39:07Z"
+        },
+        {
           "id": "Xotqtlou6QA",
           "title": "【相棒25/ドラマ】同時視聴🖥️4話 「メドゥーサの首」【vtuber】【三毛猫わらび🐈🥦】",
           "thumbnail": "https://i.ytimg.com/vi/Xotqtlou6QA/hqdefault.jpg",
@@ -227,12 +233,6 @@
           "title": "ヘンゼルとグレーテルのやり取りが面白すぎ【三毛猫わらび】#vtuber  #shorts #コント #バズれ #ギャグマンガ日和",
           "thumbnail": "https://i.ytimg.com/vi/jQ0FXysY6MY/hqdefault.jpg",
           "publishedAt": "2026-09-23T03:06:25Z"
-        },
-        {
-          "id": "XsBqFuKxQ3o",
-          "title": "変わった趣味【三毛猫わらび】#vtuber切り抜き #vtuber  #shorts #切り抜き",
-          "thumbnail": "https://i.ytimg.com/vi/XsBqFuKxQ3o/hqdefault.jpg",
-          "publishedAt": "2026-09-19T08:00:37Z"
         }
       ],
       "shorts": [
@@ -247,17 +247,20 @@
           "title": "ヘンゼルとグレーテルのやり取りが面白すぎ【三毛猫わらび】#vtuber  #shorts #コント #バズれ #ギャグマンガ日和",
           "thumbnail": "https://i.ytimg.com/vi/jQ0FXysY6MY/hqdefault.jpg",
           "publishedAt": "2026-09-23T03:06:25Z"
-        },
-        {
-          "id": "XsBqFuKxQ3o",
-          "title": "変わった趣味【三毛猫わらび】#vtuber切り抜き #vtuber  #shorts #切り抜き",
-          "thumbnail": "https://i.ytimg.com/vi/XsBqFuKxQ3o/hqdefault.jpg",
-          "publishedAt": "2026-09-19T08:00:37Z"
         }
       ],
       "live": false,
       "liveBroadcast": null,
-      "upcoming": []
+      "upcoming": [
+        {
+          "id": "wiO7AqQbOJ4",
+          "title": "【相棒25/ドラマ】同時視聴🖥️6話 「プラネタリウム」【vtuber】【三毛猫わらび🐈🥦】",
+          "thumbnail": "https://i.ytimg.com/vi/wiO7AqQbOJ4/hqdefault.jpg?v=6b069eae",
+          "scheduledStartTime": "2026-11-25T11:45:00Z",
+          "actualStartTime": null,
+          "concurrentViewers": null
+        }
+      ]
     }
   ]
 }
