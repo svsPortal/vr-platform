@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T08:46:24.859047+00:00",
+  "updatedAt": "2026-11-25T21:47:36.769135+00:00",
   "creators": [
     {
       "name": "雪明みてん@道産子VTuber",
@@ -190,7 +190,7 @@
           "id": "wiO7AqQbOJ4",
           "title": "【相棒25/ドラマ】同時視聴🖥️6話 「プラネタリウム」【vtuber】【三毛猫わらび🐈🥦】",
           "thumbnail": "https://i.ytimg.com/vi/wiO7AqQbOJ4/hqdefault.jpg?v=6b069eae",
-          "publishedAt": "2026-11-25T08:39:07Z"
+          "publishedAt": "2026-11-25T13:00:07Z"
         },
         {
           "id": "Xotqtlou6QA",
@@ -251,16 +251,7 @@
       ],
       "live": false,
       "liveBroadcast": null,
-      "upcoming": [
-        {
-          "id": "wiO7AqQbOJ4",
-          "title": "【相棒25/ドラマ】同時視聴🖥️6話 「プラネタリウム」【vtuber】【三毛猫わらび🐈🥦】",
-          "thumbnail": "https://i.ytimg.com/vi/wiO7AqQbOJ4/hqdefault.jpg?v=6b069eae",
-          "scheduledStartTime": "2026-11-25T11:45:00Z",
-          "actualStartTime": null,
-          "concurrentViewers": null
-        }
-      ]
+      "upcoming": []
     }
   ]
 }
